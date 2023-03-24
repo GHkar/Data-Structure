@@ -1,0 +1,133 @@
+#include <stdio.h>
+
+int main(void)
+{
+
+	int i = 10;
+	int *p;
+	p = &i;
+	*p = 8;
+
+	printf("%d", i);
+
+	return 0;
+}
+
+
+
+
+
+=============================================
+
+
+
+
+#include <stdio.h>
+
+int main(void)
+{
+
+	int i = 10;
+	int *p;
+	p = &i;
+	(*p)--;
+
+	printf("%d", i);
+
+	return 0;
+}
+
+
+
+
+=============================================
+
+
+
+#include <stdio.h>
+
+int main(void)
+{
+	int i;
+	int a[10] = {0};
+	int*p;
+	p = a;
+	*p++ = 5;
+
+	for (i = 0; i < 10; i++)
+	{
+		printf(" %d", a[i]);
+	}
+	return 0;
+}
+
+
+
+
+=============================================
+
+
+
+
+
+
+#include <stdio.h>
+
+void sub(int b[]) {
+	b[0] = 0;
+}
+
+void main()
+{
+	int a[] = { 1,2,3,4,5,6 };
+	sub(a);
+	int*p;
+	printf("%d\n", a[0]);
+}
+
+=============================================
+
+
+
+#include <stdio.h>
+
+
+void main()
+{
+	int i = 10, j = 20;
+	int *pa = &i, *pb = &j;
+	*pa = *pb;
+	*pb = 30;
+	pa = pb;
+	printf("%d %d\n", *pa, *pb);
+}
+
+
+
+=============================================
+
+
+
+#include <stdio.h>
+
+
+struct test {
+	int field1;
+};
+
+void sub(struct test *b) {
+	b->field1 = 1;
+}
+
+void main()
+{
+	struct test a = { 0 };
+	sub(&a);
+	printf("%d\n", a.field1);
+}
+
+
+=============================================
+
+
+자료구조 배열 18.03.28 (수)

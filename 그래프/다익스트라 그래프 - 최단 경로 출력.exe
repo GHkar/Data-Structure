@@ -1,0 +1,1263 @@
+4)
+2018-11-26T17:19:53.727+09:00| vcpu-0| I125: pciBridge5:3: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.727+09:00| vcpu-0| I125: pciBridge5:3: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.727+09:00| vcpu-0| I125: pciBridge5:4: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.727+09:00| vcpu-0| I125: pciBridge5:4: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.727+09:00| vcpu-0| I125: pciBridge5:5: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.727+09:00| vcpu-0| I125: pciBridge5:5: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.727+09:00| vcpu-0| I125: pciBridge5:6: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.727+09:00| vcpu-0| I125: pciBridge5:6: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.727+09:00| vcpu-0| I125: pciBridge5:7: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.727+09:00| vcpu-0| I125: pciBridge5:7: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: PCIBridge6: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: PCIBridge6: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:1: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:1: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:2: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:2: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:3: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:3: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:4: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:4: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:5: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:5: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:6: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:6: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:7: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge6:7: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: PCIBridge7: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: PCIBridge7: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:1: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:1: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:2: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:2: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:3: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:3: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:4: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:4: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:5: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:5: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:6: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:6: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:7: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.731+09:00| vcpu-0| I125: pciBridge7:7: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.992+09:00| vcpu-0| I125: PCIBridge4: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.992+09:00| vcpu-0| I125: pciBridge4:1: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.992+09:00| vcpu-0| I125: pciBridge4:2: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.992+09:00| vcpu-0| I125: pciBridge4:3: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.992+09:00| vcpu-0| I125: pciBridge4:4: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.992+09:00| vcpu-0| I125: pciBridge4:5: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.992+09:00| vcpu-0| I125: pciBridge4:6: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.992+09:00| vcpu-0| I125: pciBridge4:7: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.992+09:00| vcpu-0| I125: PCIBridge5: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.992+09:00| vcpu-0| I125: pciBridge5:1: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.992+09:00| vcpu-0| I125: pciBridge5:2: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.992+09:00| vcpu-0| I125: pciBridge5:3: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge5:4: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge5:5: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge5:6: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge5:7: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: PCIBridge6: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge6:1: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge6:2: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge6:3: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge6:4: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge6:5: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge6:6: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge6:7: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: PCIBridge7: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge7:1: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge7:2: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:53.996+09:00| vcpu-0| I125: pciBridge7:3: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:54.000+09:00| vcpu-0| I125: pciBridge7:4: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:54.000+09:00| vcpu-0| I125: pciBridge7:5: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:54.000+09:00| vcpu-0| I125: pciBridge7:6: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:54.000+09:00| vcpu-0| I125: pciBridge7:7: ISA/VGA decoding enabled (ctrl 0004)
+2018-11-26T17:19:54.019+09:00| vcpu-0| I125: UHCI: HCReset
+2018-11-26T17:19:57.354+09:00| vcpu-0| I125: UHCI: HCReset
+2018-11-26T17:19:58.053+09:00| vcpu-0| I125: SCSI0: RESET BUS
+2018-11-26T17:19:58.106+09:00| vcpu-0| I125: VMMouse: CMD Read ID
+2018-11-26T17:19:58.614+09:00| vcpu-0| I125: SCSI0: RESET BUS
+2018-11-26T17:19:58.648+09:00| vcpu-0| I125: DISKUTIL: scsi0:0 : capacity=104857600 logical sector size=512
+2018-11-26T17:19:58.648+09:00| vcpu-0| I125: SCSI DEVICE (scsi0:0): MODE SENSE(6) for unsupported page 0x8
+2018-11-26T17:19:58.648+09:00| vcpu-0| I125: DISKUTIL: scsi0:0 : capacity=104857600 logical sector size=512
+2018-11-26T17:19:58.648+09:00| vcpu-0| I125: SCSI DEVICE (scsi0:0): MODE SENSE(6) for unsupported page 0x8
+2018-11-26T17:19:58.651+09:00| vcpu-0| I125: DISKUTIL: scsi0:0 : capacity=104857600 logical sector size=512
+2018-11-26T17:19:58.651+09:00| vcpu-0| I125: SCSI DEVICE (scsi0:0): MODE SENSE(6) for unsupported page 0x8
+2018-11-26T17:19:58.652+09:00| svga| I125: SVGA hiding SVGA
+2018-11-26T17:19:58.660+09:00| vcpu-0| I125: Guest: vmwgfx: In Tree-Unknown
+2018-11-26T17:19:58.660+09:00| vcpu-0| I125: Guest: vmwgfx: Module Version: 2.14.0
+2018-11-26T17:19:58.665+09:00| svga| I125: SVGA enabling SVGA
+2018-11-26T17:19:58.680+09:00| vcpu-0| I125: Tools: Running status rpc handler: 0 => 1.
+2018-11-26T17:19:58.680+09:00| vcpu-0| I125: Tools: Changing running status: 0 => 1.
+2018-11-26T17:19:58.680+09:00| vcpu-0| I125: Tools: [RunningStatus] Last heartbeat value 1 (last received 0s ago)
+2018-11-26T17:19:58.680+09:00| vcpu-0| I125: Tools: Removing Tools inactivity timer.
+2018-11-26T17:19:58.685+09:00| vcpu-0| I125: AHCI-VMM:HBA reset issued on sata0.
+2018-11-26T17:19:58.685+09:00| vcpu-0| I125: AHCI-VMM:Write to reserved or READ ONLY global register
+2018-11-26T17:19:58.685+09:00| vcpu-0| I125: AHCI-VMM:Write to reserved or READ ONLY global register
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:0 Port COMRESET requested.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:0: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:0: Moved to COMRESET state.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:1 Port COMRESET requested.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:1: Moved to COMRESET state.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:2 Port COMRESET requested.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:2: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:2: Moved to COMRESET state.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:3 Port COMRESET requested.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:3: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:3: Moved to COMRESET state.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:4 Port COMRESET requested.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:4: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:4: Moved to COMRESET state.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:5 Port COMRESET requested.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:5: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:5: Moved to COMRESET state.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:0: Exiting COMRESET state.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:6 Port COMRESET requested.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:6: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:6: Moved to COMRESET state.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:1: Exiting COMRESET state.
+2018-11-26T17:19:58.761+09:00| vcpu-0| I125: AHCI-VMM: sata0:2: Exiting COMRESET state.
+2018-11-26T17:19:58.763+09:00| vcpu-0| I125: AHCI-VMM: sata0:7 Port COMRESET requested.
+2018-11-26T17:19:58.763+09:00| vcpu-0| I125: AHCI-VMM: sata0:7: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.763+09:00| vcpu-0| I125: AHCI-VMM: sata0:7: Moved to COMRESET state.
+2018-11-26T17:19:58.764+09:00| vcpu-0| I125: AHCI-VMM: sata0:3: Exiting COMRESET state.
+2018-11-26T17:19:58.764+09:00| vcpu-0| I125: AHCI-VMM: sata0:4: Exiting COMRESET state.
+2018-11-26T17:19:58.764+09:00| vcpu-0| I125: AHCI-VMM: sata0:5: Exiting COMRESET state.
+2018-11-26T17:19:58.764+09:00| vcpu-0| I125: AHCI-VMM: sata0:6: Exiting COMRESET state.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:8 Port COMRESET requested.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:8: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:8: Moved to COMRESET state.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:7: Exiting COMRESET state.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:9 Port COMRESET requested.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:9: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:9: Moved to COMRESET state.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:10 Port COMRESET requested.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:10: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:10: Moved to COMRESET state.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:11 Port COMRESET requested.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:11: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:11: Moved to COMRESET state.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:12 Port COMRESET requested.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:12: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:12: Moved to COMRESET state.
+2018-11-26T17:19:58.765+09:00| svga| I125: SVGA-ScreenMgr: Screen type changed to ScreenTarget
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:13 Port COMRESET requested.
+2018-11-26T17:19:58.765+09:00| vcpu-0| I125: AHCI-VMM: sata0:13: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.767+09:00| vcpu-0| I125: AHCI-VMM: sata0:13: Moved to COMRESET state.
+2018-11-26T17:19:58.767+09:00| vcpu-0| I125: AHCI-VMM: sata0:8: Exiting COMRESET state.
+2018-11-26T17:19:58.767+09:00| vcpu-0| I125: AHCI-VMM: sata0:9: Exiting COMRESET state.
+2018-11-26T17:19:58.768+09:00| vcpu-0| I125: AHCI-VMM: sata0:10: Exiting COMRESET state.
+2018-11-26T17:19:58.768+09:00| vcpu-0| I125: AHCI-VMM: sata0:11: Exiting COMRESET state.
+2018-11-26T17:19:58.769+09:00| vcpu-0| I125: AHCI-VMM: sata0:12: Exiting COMRESET state.
+2018-11-26T17:19:58.770+09:00| vcpu-0| I125: AHCI-VMM: sata0:13: Exiting COMRESET state.
+2018-11-26T17:19:58.770+09:00| vcpu-0| I125: AHCI-VMM: sata0:14 Port COMRESET requested.
+2018-11-26T17:19:58.770+09:00| vcpu-0| I125: AHCI-VMM: sata0:14: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.770+09:00| vcpu-0| I125: AHCI-VMM: sata0:14: Moved to COMRESET state.
+2018-11-26T17:19:58.770+09:00| vcpu-0| I125: AHCI-VMM: sata0:15 Port COMRESET requested.
+2018-11-26T17:19:58.770+09:00| vcpu-0| I125: AHCI-VMM: sata0:15: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.770+09:00| vcpu-0| I125: AHCI-VMM: sata0:15: Moved to COMRESET state.
+2018-11-26T17:19:58.770+09:00| vcpu-0| I125: AHCI-VMM: sata0:16 Port COMRESET requested.
+2018-11-26T17:19:58.770+09:00| vcpu-0| I125: AHCI-VMM: sata0:16: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.770+09:00| vcpu-0| I125: AHCI-VMM: sata0:16: Moved to COMRESET state.
+2018-11-26T17:19:58.771+09:00| vcpu-0| I125: AHCI-VMM: sata0:17 Port COMRESET requested.
+2018-11-26T17:19:58.771+09:00| vcpu-0| I125: AHCI-VMM: sata0:17: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.771+09:00| vcpu-0| I125: AHCI-VMM: sata0:17: Moved to COMRESET state.
+2018-11-26T17:19:58.771+09:00| vcpu-0| I125: AHCI-VMM: sata0:18 Port COMRESET requested.
+2018-11-26T17:19:58.771+09:00| vcpu-0| I125: AHCI-VMM: sata0:18: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.771+09:00| vcpu-0| I125: AHCI-VMM: sata0:18: Moved to COMRESET state.
+2018-11-26T17:19:58.771+09:00| vcpu-0| I125: AHCI-VMM: sata0:19 Port COMRESET requested.
+2018-11-26T17:19:58.771+09:00| vcpu-0| I125: AHCI-VMM: sata0:19: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.771+09:00| vcpu-0| I125: AHCI-VMM: sata0:19: Moved to COMRESET state.
+2018-11-26T17:19:58.771+09:00| vcpu-0| I125: AHCI-VMM: sata0:14: Exiting COMRESET state.
+2018-11-26T17:19:58.771+09:00| vcpu-0| I125: AHCI-VMM: sata0:20 Port COMRESET requested.
+2018-11-26T17:19:58.771+09:00| vcpu-0| I125: AHCI-VMM: sata0:20: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.772+09:00| vcpu-0| I125: AHCI-VMM: sata0:20: Moved to COMRESET state.
+2018-11-26T17:19:58.772+09:00| vcpu-0| I125: AHCI-VMM: sata0:15: Exiting COMRESET state.
+2018-11-26T17:19:58.772+09:00| vcpu-0| I125: AHCI-VMM: sata0:16: Exiting COMRESET state.
+2018-11-26T17:19:58.772+09:00| vcpu-0| I125: AHCI-VMM: sata0:21 Port COMRESET requested.
+2018-11-26T17:19:58.772+09:00| vcpu-0| I125: AHCI-VMM: sata0:21: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.772+09:00| vcpu-0| I125: AHCI-VMM: sata0:21: Moved to COMRESET state.
+2018-11-26T17:19:58.772+09:00| vcpu-0| I125: AHCI-VMM: sata0:17: Exiting COMRESET state.
+2018-11-26T17:19:58.772+09:00| vcpu-0| I125: AHCI-VMM: sata0:18: Exiting COMRESET state.
+2018-11-26T17:19:58.772+09:00| vcpu-0| I125: AHCI-VMM: sata0:22 Port COMRESET requested.
+2018-11-26T17:19:58.772+09:00| vcpu-0| I125: AHCI-VMM: sata0:22: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.772+09:00| vcpu-0| I125: AHCI-VMM: sata0:22: Moved to COMRESET state.
+2018-11-26T17:19:58.772+09:00| vcpu-0| I125: AHCI-VMM: sata0:19: Exiting COMRESET state.
+2018-11-26T17:19:58.773+09:00| vcpu-0| I125: AHCI-VMM: sata0:23 Port COMRESET requested.
+2018-11-26T17:19:58.773+09:00| vcpu-0| I125: AHCI-VMM: sata0:23: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.773+09:00| vcpu-0| I125: AHCI-VMM: sata0:23: Moved to COMRESET state.
+2018-11-26T17:19:58.773+09:00| vcpu-0| I125: AHCI-VMM: sata0:20: Exiting COMRESET state.
+2018-11-26T17:19:58.773+09:00| vcpu-0| I125: AHCI-VMM: sata0:24 Port COMRESET requested.
+2018-11-26T17:19:58.773+09:00| vcpu-0| I125: AHCI-VMM: sata0:24: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.773+09:00| vcpu-0| I125: AHCI-VMM: sata0:24: Moved to COMRESET state.
+2018-11-26T17:19:58.773+09:00| vcpu-0| I125: AHCI-VMM: sata0:21: Exiting COMRESET state.
+2018-11-26T17:19:58.773+09:00| vcpu-0| I125: AHCI-VMM: sata0:25 Port COMRESET requested.
+2018-11-26T17:19:58.773+09:00| vcpu-0| I125: AHCI-VMM: sata0:25: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.773+09:00| vcpu-0| I125: AHCI-VMM: sata0:25: Moved to COMRESET state.
+2018-11-26T17:19:58.774+09:00| vcpu-0| I125: AHCI-VMM: sata0:22: Exiting COMRESET state.
+2018-11-26T17:19:58.774+09:00| vcpu-0| I125: AHCI-VMM: sata0:26 Port COMRESET requested.
+2018-11-26T17:19:58.774+09:00| vcpu-0| I125: AHCI-VMM: sata0:26: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.774+09:00| vcpu-0| I125: AHCI-VMM: sata0:26: Moved to COMRESET state.
+2018-11-26T17:19:58.774+09:00| vcpu-0| I125: AHCI-VMM: sata0:23: Exiting COMRESET state.
+2018-11-26T17:19:58.774+09:00| vcpu-0| I125: AHCI-VMM: sata0:27 Port COMRESET requested.
+2018-11-26T17:19:58.774+09:00| vcpu-0| I125: AHCI-VMM: sata0:27: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.774+09:00| vcpu-0| I125: AHCI-VMM: sata0:27: Moved to COMRESET state.
+2018-11-26T17:19:58.775+09:00| vcpu-0| I125: AHCI-VMM: sata0:24: Exiting COMRESET state.
+2018-11-26T17:19:58.775+09:00| vcpu-0| I125: AHCI-VMM: sata0:25: Exiting COMRESET state.
+2018-11-26T17:19:58.775+09:00| vcpu-0| I125: AHCI-VMM: sata0:28 Port COMRESET requested.
+2018-11-26T17:19:58.775+09:00| vcpu-0| I125: AHCI-VMM: sata0:28: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.775+09:00| vcpu-0| I125: AHCI-VMM: sata0:28: Moved to COMRESET state.
+2018-11-26T17:19:58.775+09:00| vcpu-0| I125: AHCI-VMM: sata0:26: Exiting COMRESET state.
+2018-11-26T17:19:58.776+09:00| vcpu-0| I125: AHCI-VMM: sata0:29 Port COMRESET requested.
+2018-11-26T17:19:58.776+09:00| vcpu-0| I125: AHCI-VMM: sata0:29: Write to PxSCTL.DET while no device present.
+2018-11-26T17:19:58.776+09:00| vcpu-0| I125: AHCI-VMM: sata0:29: Moved to COMRESET state.
+2018-11-26T17:19:58.776+09:00| vcpu-0| I125: AHCI-VMM: sata0:27: Exiting COMRESET state.
+2018-11-26T17:19:58.780+09:00| vcpu-0| I125: AHCI-VMM: sata0:28: Exiting COMRESET state.
+2018-11-26T17:19:58.780+09:00| vcpu-0| I125: AHCI-VMM: sata0:29: Exiting COMRESET state.
+2018-11-26T17:19:59.081+09:00| vcpu-0| I125: AHCI-USER: Already in check condition 02 3a 00
+2018-11-26T17:20:00.118+09:00| svga| I125: MKSScreenShotMgr: Taking a screenshot
+2018-11-26T17:20:03.748+09:00| vmx| I125: GuestRpcSendTimedOut: message to toolbox timed out.
+2018-11-26T17:20:07.957+09:00| vcpu-0| I125: Guest MSR write (0x49: 0x1)
+2018-11-26T17:20:09.243+09:00| vmx| I125: GuestRpc: Got RPCI vsocket connection 6, assigned to channel 0.
+2018-11-26T17:20:09.638+09:00| vmx| I125: Guest: toolbox: Version: 10.3.0.5330 (build-8931395)
+2018-11-26T17:20:09.639+09:00| vcpu-0| W115: GuestRpc: application toolbox, changing channel 65535 -> 0
+2018-11-26T17:20:09.639+09:00| vcpu-0| I125: GuestRpc: Channel 0, guest application toolbox.
+2018-11-26T17:20:09.639+09:00| vcpu-0| I125: DEPLOYPKG: ToolsDeployPkg_Begin: state=0 err=0, msg=null
+2018-11-26T17:20:09.639+09:00| vcpu-0| I125: Tools: [AppStatus] Last heartbeat value 1 (last received 10s ago)
+2018-11-26T17:20:11.057+09:00| vcpu-0| I125: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2018-11-26T17:20:11.057+09:00| vcpu-0| I125: CDROM: Emulate GET CONFIGURATION RT 0 starting feature 0
+2018-11-26T17:20:12.341+09:00| vcpu-0| I125: SOUND 381.117310 ES1371Win32GetMixerCtl mixerGetLineInfo error 1024
+2018-11-26T17:20:13.998+09:00| vmx| I125: Tools: Changing running status: 1 => 2.
+2018-11-26T17:20:13.998+09:00| vmx| I125: Tools: [RunningStatus] Last heartbeat value 2 (last received 4s ago)
+2018-11-26T17:20:14.006+09:00| vmx| I125: TOOLS Received tools.set.versiontype rpc call, version = 10336, type = 4
+2018-11-26T17:20:14.006+09:00| vmx| I125: TOOLS Setting toolsVersionStatus = TOOLS_STATUS_UNMANAGED
+2018-11-26T17:20:14.006+09:00| vmx| I125: Tools_SetVersionAndType did nothing; new tools version (10336) and type (4) match old Tools version and type
+2018-11-26T17:20:14.641+09:00| vmx| I125: TOOLS state change 3 returned status 1
+2018-11-26T17:20:14.641+09:00| vmx| I125: Vix: [mainDispatch.c:4150]: VMAutomationReportPowerStateChange: Reporting power state change (opcode=2, err=0).
+2018-11-26T17:20:14.641+09:00| vmx| I125: Tools: Changing running status: 2 => 1.
+2018-11-26T17:20:14.641+09:00| vmx| I125: Tools: [RunningStatus] Last heartbeat value 2 (last received 4s ago)
+2018-11-26T17:20:30.338+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:20:30.338+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:20:30.618+09:00| svga| I125: GDI-Backend: stopped by HWinMux to do window composition.
+2018-11-26T17:20:30.618+09:00| svga| I125: MKS-RenderMain: Stopping MKSBasicOps
+2018-11-26T17:20:30.626+09:00| svga| W115: DX11Renderer: Enumerating adapter 0
+2018-11-26T17:20:30.626+09:00| svga| W115: DX11Renderer: `Intel(R) UHD Graphics 620` vendor=0x8086 device=0x5917 revision=7
+2018-11-26T17:20:30.626+09:00| svga| W115: DX11Renderer: video=128MB system=0MB shared=4012MB
+2018-11-26T17:20:30.661+09:00| svga| W115: DX11Renderer: Using device unknown; adapter `Intel(R) UHD Graphics 620`
+2018-11-26T17:20:30.661+09:00| svga| I125: DX11Renderer: Max 2D Texture Size=16384
+2018-11-26T17:20:30.661+09:00| svga| W115: DX11Renderer: SDK=7, driver=unknown, feature level=11.0
+2018-11-26T17:20:30.661+09:00| svga| W115: DX11Renderer: Max feature level=12.1
+2018-11-26T17:20:30.773+09:00| svga| I125: Started Shim3D
+2018-11-26T17:20:30.773+09:00| svga| I125: MKS-RenderMain: Started DX11Renderer
+2018-11-26T17:20:30.775+09:00| svga| I125: MKS-HWinMux: Started DX11 presentation backend
+2018-11-26T17:20:32.023+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:20:32.023+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:20:33.703+09:00| vmx| I125: GuestRpcSendTimedOut: message to toolbox-dnd timed out.
+2018-11-26T17:20:34.663+09:00| DAC1| I125: VTHREAD 11552 "DAC1"
+2018-11-26T17:20:34.985+09:00| ADC| I125: VTHREAD 17756 "ADC"
+2018-11-26T17:20:45.593+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:20:45.593+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:20:45.605+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:20:45.607+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:20:45.771+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:20:45.771+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:20:45.798+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:20:45.798+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:20:45.823+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:20:45.823+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:20:45.852+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:20:45.852+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:20:45.954+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:20:45.955+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:20:46.126+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:20:46.126+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:21:09.278+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:21:09.278+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:21:09.356+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:21:09.356+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:21:11.767+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:21:11.767+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:21:12.083+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:21:12.084+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:21:12.867+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:21:12.868+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:21:13.657+09:00| DAC1| I125: VTHREAD 15772 "DAC1"
+2018-11-26T17:21:13.742+09:00| ADC| I125: VTHREAD 18180 "ADC"
+2018-11-26T17:21:17.414+09:00| svga| I125: MKSScreenShotMgr: Taking a screenshot
+2018-11-26T17:21:17.946+09:00| mks| I125: SWBWindow: Number of MKSWindows changed: 2 rendering MKSWindow(s) of total 2.
+2018-11-26T17:21:17.946+09:00| mks| W115: DX11Window: DX11WindowShowWindow unimplemented
+2018-11-26T17:21:17.963+09:00| mks| I125: SWBWindow: Window #0 validation failed: no valid host window or host surface.
+2018-11-26T17:21:17.963+09:00| mks| I125: SWBVmdb: Destroy SWB Window Id #0 because an invalid MKSWindow definition is recevied from UI over VMDB.
+2018-11-26T17:21:17.968+09:00| mks| I125: SWBWindow: Number of MKSWindows changed: 1 rendering MKSWindow(s) of total 1.
+2018-11-26T17:21:17.968+09:00| mks| I125: SWBWindow: Window #1 validation failed: no valid host window or host surface.
+2018-11-26T17:21:17.968+09:00| mks| I125: SWBVmdb: Destroy SWB Window Id #1 because an invalid MKSWindow definition is recevied from UI over VMDB.
+2018-11-26T17:21:17.970+09:00| mks| I125: SWBWindow: Number of MKSWindows changed: 0 rendering MKSWindow(s) of total 0.
+2018-11-26T17:21:19.260+09:00| mks| I125: SWBWindow: Number of MKSWindows changed: 1 rendering MKSWindow(s) of total 1.
+2018-11-26T17:21:19.263+09:00| mks| I125: MKS-HWinMux: Started DX11 presentation backend
+2018-11-26T17:21:19.263+09:00| mks| I125: SWBWindow: Number of MKSWindows changed: 1 rendering MKSWindow(s) of total 2.
+2018-11-26T17:21:21.786+09:00| svga| I125: MKSScreenShotMgr: Taking a screenshot
+2018-11-26T17:21:22.072+09:00| mks| I125: SWBWindow: Number of MKSWindows changed: 2 rendering MKSWindow(s) of total 2.
+2018-11-26T17:21:22.072+09:00| mks| W115: DX11Window: DX11WindowShowWindow unimplemented
+2018-11-26T17:21:22.091+09:00| mks| I125: SWBWindow: Number of MKSWindows changed: 1 rendering MKSWindow(s) of total 2.
+2018-11-26T17:21:22.261+09:00| vmx| I125: GuestRpc: Got RPCI vsocket connection 7, assigned to channel 1.
+2018-11-26T17:21:25.232+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:21:25.232+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:21:25.841+09:00| vmx| I125: Guest: toolbox-dnd: Version: 10.3.0.5330 (build-8931395)
+2018-11-26T17:21:25.843+09:00| vcpu-0| W115: GuestRpc: application toolbox-dnd, changing channel 65535 -> 1
+2018-11-26T17:21:25.843+09:00| vcpu-0| I125: GuestRpc: Channel 1, guest application toolbox-dnd.
+2018-11-26T17:21:26.054+09:00| vmx| I125: DnDCP: dndGuestVersion from vmdb failed, setting to 4
+2018-11-26T17:21:26.054+09:00| vmx| I125: DnDCP: set guest controllers to version 4
+2018-11-26T17:21:26.091+09:00| vmx| I125: DnDCP: set guest controllers to version 4
+2018-11-26T17:21:26.092+09:00| vmx| I125: DnDCP: set guest controllers to version 4
+2018-11-26T17:21:26.171+09:00| vmx| I125: DnDCP: set guest controllers to version 4
+2018-11-26T17:22:33.638+09:00| vcpu-0| I125: Guest: Mesa: SVGA3D; build: RELEASE;  LLVM;
+2018-11-26T17:22:33.639+09:00| vcpu-0| I125: Guest: Mesa: 18.0.5
+2018-11-26T17:22:48.960+09:00| vmx| I125: VNET: MACVNetLinkStateEventHandler: event, up:0, adapter:1
+2018-11-26T17:22:48.960+09:00| vmx| I125: VNET: MACVNetLinkStateEventHandler: 'ethernet0' state from 5 to 7.
+2018-11-26T17:22:48.960+09:00| vmx| I125: VNET: MACVNetLinkStateEventHandler: event, up:1, adapter:0
+2018-11-26T17:22:48.960+09:00| vmx| I125: VNET: MACVNetLinkStateEventHandler: 'ethernet0' state from 7 to 2.
+2018-11-26T17:22:57.020+09:00| vmx| I125: VNET: MACVNetLinkStateTimerHandler: 'ethernet0' state from 2 to 6.
+2018-11-26T17:22:57.128+09:00| vmx| I125: VNET: MACVNetLinkStateTimerHandler: 'ethernet0' state from 6 to 1.
+2018-11-26T17:23:02.598+09:00| vmx| I125: VNET: MACVNetLinkStateTimerHandler: 'ethernet0' state from 1 to 5.
+2018-11-26T17:23:14.979+09:00| vmx| I125: VMXVmdbCbVmVmxExecState: Exec state change requested to state poweredOff without reset, hard, softOptionTimeout: 20000000.
+2018-11-26T17:23:14.993+09:00| vmx| I125: Stopping VCPU threads...
+2018-11-26T17:23:15.237+09:00| svga| I125: SVGA thread is exiting
+2018-11-26T17:23:15.239+09:00| mks| I125: SWBWindow: Number of MKSWindows changed: 0 rendering MKSWindow(s) of total 1.
+2018-11-26T17:23:15.241+09:00| mks| I125: SWBWindow: Number of MKSWindows changed: 0 rendering MKSWindow(s) of total 0.
+2018-11-26T17:23:15.250+09:00| vmx| I125: MKS thread is stopped
+2018-11-26T17:23:15.250+09:00| vmx| I125: USB: Disconnecting device 0x700000010e0f0008
+2018-11-26T17:23:15.253+09:00| vmx| I125: USB: Disconnecting device 0x200000050e0f0003
+2018-11-26T17:23:15.257+09:00| vmx| I125: 
+2018-11-26T17:23:15.257+09:00| vmx| I125+ OvhdMem: Final (Power Off) Overheads
+2018-11-26T17:23:15.257+09:00| vmx| I125:                                                       reserved      |          used
+2018-11-26T17:23:15.257+09:00| vmx| I125: OvhdMem excluded                                  cur    max    avg |    cur    max    avg
+2018-11-26T17:23:15.257+09:00| vmx| I125: OvhdMem OvhdUser_MainMem                    :  524288 524288      - | 518700 518712      -
+2018-11-26T17:23:15.257+09:00| vmx| I125: OvhdMem OvhdUser_VmxText                    :    7168   7168      - |      0      0      -
+2018-11-26T17:23:15.257+09:00| vmx| I125: OvhdMem OvhdUser_VmxTextLibs                :   15360  15360      - |      0      0      -
+2018-11-26T17:23:15.257+09:00| vmx| I125: OvhdMem Total excluded                      :  546816 546816      - |      -      -      -
+2018-11-26T17:23:15.257+09:00| vmx| I125: OvhdMem Actual maximum                      :         546816        |             -
+2018-11-26T17:23:15.257+09:00| vmx| I125+ 
+2018-11-26T17:23:15.257+09:00| vmx| I125:                                                       reserved      |          used
+2018-11-26T17:23:15.257+09:00| vmx| I125: OvhdMem paged                                     cur    max    avg |    cur    max    avg
+2018-11-26T17:23:15.257+09:00| vmx| I125: OvhdMem OvhdUser_KSTATS_vmm                 :       0      0      - |      0      0      -
+2018-11-26T17:23:15.257+09:00| vmx| I125: OvhdMem OvhdUser_STATS_vmm                  :       2      2      - |      0      0      -
+2018-11-26T17:23:15.257+09:00| vmx| I125: OvhdMem OvhdUser_KSTATS_device              :       0      0      - |      0      0      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_STATS_device               :       1      1      - |      0      0      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_KSTATS_migrate             :       0      0      - |      0      0      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_IOFiltersMalloc            :       0      0      - |      0      0      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_DiskLibMemUsed             :    3075   3075      - |      0      0      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaSurfaceTable           :     304    304      - |     48     70      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaBESurfaceTable         :       6      6      - |      2      3      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaHBTables               :       0      0      - |      0      0      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaHBMobListTable         :       0      0      - |      0      0      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaHBShaderTable          :       0      0      - |      0      0      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaSDirtyCache            :      48     48      - |      0      0      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaShaderTable            :     704    704      - |    192    192      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaShaderText             :    2048   2048      - |      0      0      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaContextCache           :    1356   1356      - |      2      2      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaMobCache               :     296    296      - |     24     69      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXRTViewTable          :      22     22      - |      6      7      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXDSViewTable          :       3      3      - |      1      1      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXSRViewTable          :     192    192      - |     48     49      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXUAViewTable          :       4      4      - |      0      0      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXBlendStateTable      :       8      8      - |      1      1      -
+2018-11-26T17:23:15.258+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXElementLayoutTable   :      50     50      - |      3      3      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXDepthStencilTable    :       4      4      - |      1      1      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXRasterizerStateTable :       4      4      - |      1      1      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXSamplerTable         :      72     72      - |     12     13      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXContextTable         :     697    697      - |      1     15      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXShaderTable          :     176    176      - |     48     49      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXShaderText           :    4096   4096      - |      0      5      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXStreamOutTable       :      66     66      - |      1      1      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_SvgaDXQueryTable           :     132    132      - |     12     12      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_SvgaVAProcessorTable       :       1      1      - |      0      0      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_SvgaVADecoderTable         :       1      1      - |      0      0      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_VmxAllocTrack              :       0      0      - |      0      0      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_VmxASAN                    :       0      0      - |      0      0      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_VmxCallStackProf           :       0      0      - |      0      0      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_VmxGlobals                 :   10240  10240      - |      0      0      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_VmxGlobalsLibs             :    3584   3584      - |      0      0      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_VmxHeap                    :   10752  10752      - |      0      0      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_VmxHeapFreeList            :       0      0      - |      0      0      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_VmxMks                     :      33     33      - |     17     17      -
+2018-11-26T17:23:15.259+09:00| vmx| I125: OvhdMem OvhdUser_VmxMksRenderOps            :     815    815      - |    815    815      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxMks3d                   :  360448 360448      - |      2     94      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxMksHBMobs               :       0      0      - |      0      0      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxMksGLRenderer           :   16384  16384      - |      0      0      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxMksGLTransient          :  131072 131072      - |      0      0      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxMksLLVM                 :   12288  12288      - |      0      0      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxMksScreenTemp           :   69890  69890      - |      0      3      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxMksVnc                  :   74936  74936      - |      0      0      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxMksScreen               :  131075 131075      - |      0    469      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxMksSVGAVO               :    4096   4096      - |      0      0      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxMksVMVA                 :       0      0      - |      0      0      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxPhysMemRingBuf          :       0      0      - |      0      0      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxPhysMemErrPages         :      10     10      - |      0      0      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxFTCptOutputBuf          :       0      0      - |      0      0      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxSLEntryBuf              :     128    128      - |      0      0      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem OvhdUser_VmxThreads                 :   34816  34816      - |      0      0      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem Total paged                         :  873935 873935      - |   1237   1892      -
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem Actual maximum                      :         873935        |          1691
+2018-11-26T17:23:15.260+09:00| vmx| I125+ 
+2018-11-26T17:23:15.260+09:00| vmx| I125:                                                       reserved      |          used
+2018-11-26T17:23:15.260+09:00| vmx| I125: OvhdMem nonpaged                                  cur    max    avg |    cur    max    avg
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_SharedArea                 :      98     98      - |     82     82      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_BusMemTraceBitmap          :      19     19      - |      0      0      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_PFrame                     :    1175   1378      - |   1175   1175      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_VProbe                     :       0      0      - |      0      0      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_VIDE_KSEG                  :      16     16      - |     16     16      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_VGA                        :      64     64      - |     64     64      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_BalloonMPN                 :       1      1      - |      1      1      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_P2MUpdateBuffer            :       3      3      - |      0      0      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_ServicesMPN                :       2      2      - |      2      2      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_LocalApic                  :       1      1      - |      1      1      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_BusError                   :       1      1      - |      1      1      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_VBIOS                      :       8      8      - |      8      8      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_VnicGuest                  :       0      0      - |      0      0      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_VnicMmap                   :       0      0      - |      0      0      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_TestDev                    :       0      0      - |      0      0      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_LSIBIOS                    :       4      4      - |      2      2      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_LSIRings                   :       4      4      - |      0      0      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_PCIPBIOS                   :       0      0      - |      0      0      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_PVSCSIBIOS                 :       0      0      - |      0      0      -
+2018-11-26T17:23:15.261+09:00| vmx| I125: OvhdMem OvhdUser_PVSCSIKickReg              :       0      0      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_SAS1068BIOS                :       4      4      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_SBIOS                      :      16     16      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_AHCIBIOS                   :      16     16      - |      2      2      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_NVMEBIOS                   :       0      0      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_FlashRam                   :     128    128      - |     57     57      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_IOFiltersMMap              :       0      0      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_IOFiltersGlobal            :       0      0      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_SMM                        :      63     63      - |     40     40      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_SVGAFB                     :    1024   1024      - |    938    938      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_SVGAMEM                    :      64    512      - |      1      1      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_HDAudioReg                 :       3      3      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_EHCIRegister               :       1      1      - |      1      1      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_XhciRegister               :       1      1      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_PhysMemDebug               :       0      0      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_HyperV                     :       2      2      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_ExtCfg                     :       3      3      - |      2      2      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_HV                         :       2      2      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_HVIOBitmap                 :       3      3      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_HVMSRBitmap                :       2      2      - |      1      1      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_VHVGuestMSRBitmap          :       2      2      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_vhvCachedVMCS              :       1      1      - |      0      0      -
+2018-11-26T17:23:15.262+09:00| vmx| I125: OvhdMem OvhdUser_vhvNestedAPIC              :       1      1      - |      0      0      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdUser_PCIP                       :       0      0      - |      0      0      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdUser_MigrateCpt                 :       0      0      - |      0      0      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdUser_MonBootstrap               :       0      0      - |      0      0      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdUser_MonWired                   :      37     37      - |     29     29      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdUser_MonWiredNuma               :       0     17      - |      0     10      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdUser_MonNuma                    :       0    212      - |      0    193      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdUser_MonOther                   :      34     34      - |      0      0      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdUser_FTCpt                      :       0      0      - |      0      0      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdUser_NVDC                       :       1      1      - |      0      0      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdUser_NVDIMM                     :       0      0      - |      0      0      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdUser_EPC                        :       0      0      - |      0      0      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem Total nonpaged                      :    2804   3684      - |   2423   2626      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem Actual maximum                      :           3684        |          2423
+2018-11-26T17:23:15.263+09:00| vmx| I125+ 
+2018-11-26T17:23:15.263+09:00| vmx| I125:                                                       reserved      |          used
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem anonymous                                 cur    max    avg |    cur    max    avg
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdMon_Alloc                       :      98     98      - |     47     82      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdMon_BusMemFrame                 :     578    587      - |    578    578      -
+2018-11-26T17:23:15.263+09:00| vmx| I125: OvhdMem OvhdMon_BusMem2MInfo                :       8      8      - |      8      8      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_BusMem1GInfo                :       1      1      - |      1      1      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_BusMemZapListMPN            :       1      1      - |      1      1      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_MonAS                       :       2      2      - |      2      2      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_GuestMem                    :      24     24      - |     24     24      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_TC                          :     513    982      - |    470    940      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_Island                      :       4      4      - |      0      0      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_BusMemMonAS                 :       5      5      - |      5      5      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_PlatformMonAS               :       5      5      - |      2      2      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_HVNuma                      :       2      2      - |      0      0      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_HV                          :       1      1      - |      1      1      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_VHV                         :       3      3      - |      0      0      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_VNPTShadow                  :       0      0      - |      0      0      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_VNPTShadowCache             :       0      0      - |      0      0      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_VNPTBackmap                 :       0      0      - |      0      0      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_SVMIDT                      :       1      1      - |      0      0      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_CallStackProfAnon           :       0      0      - |      0      0      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_Numa                        :      24     24      - |     14     23      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_NumaTextRodata              :     180    180      - |    161    161      -
+2018-11-26T17:23:15.264+09:00| vmx| I125: OvhdMem OvhdMon_NumaDataBss                 :      32     32      - |     32     32      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_NumaLargeData               :       0    512      - |      0      0      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_WiredNuma                   :      17     17      - |     16     16      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_Bootstrap                   :       0      3      - |      0      3      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_GPhysTraced                 :     236    236      - |    229    235      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_GPhysHWMMU                  :    1190   1190      - |   1069   1069      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_GPhysGIM                    :       0      0      - |      0      0      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_GPhysNoTrace                :      72     72      - |     21     22      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_PhysMemGart                 :      88     88      - |     80     80      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_PhysMemErr                  :       6      6      - |      0      0      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_TraceALot                   :       0      0      - |      0      0      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_VIDE                        :       0      0      - |      0      0      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_VMXNETWake                  :       0      0      - |      0      0      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_BusLogic                    :       0      0      - |      0      0      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_Ahci                        :       0      0      - |      0      0      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_Nvme                        :       0      0      - |      0      0      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_NVMERings                   :       0      0      - |      0      0      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_PVSCSIShadowRing            :       0      0      - |      0      0      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_LSIRings                    :       0      0      - |      0      0      -
+2018-11-26T17:23:15.265+09:00| vmx| I125: OvhdMem OvhdMon_FTCptMonAS                  :       0      0      - |      0      0      -
+2018-11-26T17:23:15.266+09:00| vmx| I125: OvhdMem OvhdMon_Hba                         :       0      0      - |      0      0      -
+2018-11-26T17:23:15.266+09:00| vmx| I125: OvhdMem OvhdMon_VProbe                      :       1      1      - |      0      0      -
+2018-11-26T17:23:15.266+09:00| vmx| I125: OvhdMem OvhdMon_PT                          :       0      0      - |      0      0      -
+2018-11-26T17:23:15.266+09:00| vmx| I125: OvhdMem Total anonymous                     :    3092   4085      - |   2761   3285      -
+2018-11-26T17:23:15.266+09:00| vmx| I125: OvhdMem Actual maximum                      :           3604        |          2761
+2018-11-26T17:23:15.266+09:00| vmx| I125+ 
+2018-11-26T17:23:15.266+09:00| vmx| I125: VMMEM: Maximum Reservation: 3444MB (MainMem=2048MB)
+2018-11-26T17:23:15.266+09:00| vmx| I125: MemSched: BALLOON HIST [0, 524288]: 223 223 0 0 0 0 0 0 0 0 0 0
+2018-11-26T17:23:15.266+09:00| vmx| I125: MemSched: BALLOON P50 1 P70 1 P90 1 MIN 0 MAX 0
+2018-11-26T17:23:15.266+09:00| vmx| I125: MemSched: SWAP HIST [0, 524288]: 103 223 0 0 0 0 0 0 0 0 0 0
+2018-11-26T17:23:15.266+09:00| vmx| I125: MemSched: SWAP P50 10 P70 10 P90 10 MIN 0 MAX 73
+2018-11-26T17:23:15.266+09:00| vmx| I125: MemSched: LOCK HIST [0, 524288]: 0 21 8 26 14 32 9 7 14 32 60 0
+2018-11-26T17:23:15.266+09:00| vmx| I125: MemSched: LOCK P50 70 P70 90 P90 100 MIN 1581 MAX 523911
+2018-11-26T17:23:15.267+09:00| vmx| I125: MemSched: LOCK_TARGET HIST [0, 524288]: 0 0 0 0 0 0 0 0 0 0 223 223
+2018-11-26T17:23:15.267+09:00| vmx| I125: MemSched: LOCK_TARGET P50 100 P70 100 P90 100 MIN 524288 MAX 530628
+2018-11-26T17:23:15.267+09:00| vmx| I125: MemSched: ACTIVE_PCT HIST [0, 100]: 0 0 0 0 0 0 0 0 223 0 0 0
+2018-11-26T17:23:15.267+09:00| vmx| I125: MemSched: ACTIVE_PCT P50 80 P70 80 P90 80 MIN 75 MAX 75
+2018-11-26T17:23:15.267+09:00| vmx| I125: MemSched: NUM_VMS HIST [0, 10]: 0 0 223 0 0 0 0 0 0 0 0 0
+2018-11-26T17:23:15.267+09:00| vmx| I125: MemSched: NUM_VMS P50 20 P70 20 P90 20 MIN 1 MAX 1
+2018-11-26T17:23:15.267+09:00| vmx| I125: MemSched: HOSTLOCK HIST [0, 1596416]: 0 55 56 53 59 0 0 0 0 0 0 0
+2018-11-26T17:23:15.267+09:00| vmx| I125: MemSched: HOSTLOCK P50 30 P70 30 P90 40 MIN 1581 MAX 523911
+2018-11-26T17:23:15.267+09:00| vmx| I125: TOOLS received request in VMX to set option 'enableDnD' -> '0'
+2018-11-26T17:23:15.268+09:00| vmx| I125: GuestRpc: Attempt to send TCLO msg for 'toolbox' while GuestRpc is powering off.
+2018-11-26T17:23:15.268+09:00| vmx| I125: GuestRpc: Attempt to send TCLO msg for 'toolbox-dnd' while GuestRpc is powering off.
+2018-11-26T17:23:15.268+09:00| vmx| I125: TOOLS received request in VMX to set option 'copypaste' -> '0'
+2018-11-26T17:23:15.268+09:00| vmx| I125: GuestRpc: Attempt to send TCLO msg for 'toolbox' while GuestRpc is powering off.
+2018-11-26T17:23:15.268+09:00| vmx| I125: GuestRpc: Attempt to send TCLO msg for 'toolbox-dnd' while GuestRpc is powering off.
+2018-11-26T17:23:15.270+09:00| vmx| I125: HgfsServerManagerVigorExit: Destroy:
+2018-11-26T17:23:15.280+09:00| vmx| I125: Tools: ToolsRunningStatus_Exit, delayedRequest is 0x0
+2018-11-26T17:23:15.280+09:00| vmx| I125: Tools: Changing running status: 1 => 0.
+2018-11-26T17:23:15.280+09:00| vmx| I125: Tools: [RunningStatus] Last heartbeat value 183 (last received 0s ago)
+2018-11-26T17:23:15.283+09:00| vmx| I125: SOUNDLIB: Closing Wave sound backend.
+2018-11-26T17:23:15.283+09:00| vmx| I125: GuestRpc: Closing channel 0 connection 6
+2018-11-26T17:23:15.283+09:00| vmx| I125: GuestRpc: Closing channel 1 connection 7
+2018-11-26T17:23:15.283+09:00| vmx| I125: GuestRpc: Reinitializing Channel 0(toolbox)
+2018-11-26T17:23:15.283+09:00| vmx| I125: GuestMsg: Channel 0, Cannot unpost because the previous post is already completed
+2018-11-26T17:23:15.283+09:00| vmx| I125: Tools: [AppStatus] Last heartbeat value 183 (last received 0s ago)
+2018-11-26T17:23:15.311+09:00| vmx| I125: GuestRpc: Reinitializing Channel 1(toolbox-dnd)
+2018-11-26T17:23:15.311+09:00| vmx| I125: GuestMsg: Channel 1, Cannot unpost because the previous post is already completed
+2018-11-26T17:23:15.314+09:00| vmx| I125: USB: Disconnecting device 0x10e0f0002
+2018-11-26T17:23:15.354+09:00| vmx| I125: MKS thread was already stopped
+2018-11-26T17:23:15.356+09:00| mks| I125: MKSControlMgr: disconnected
+2018-11-26T17:23:15.360+09:00| mks| I125: Stopped Shim3D
+2018-11-26T17:23:15.361+09:00| mks| I125: DX11VideoManager: Stalls: count=0, total=0 ms, min/max duration=0/0 ms
+2018-11-26T17:23:15.361+09:00| mks| I125: DX11VideoManager: Stall Frequency [0-254 ms, >= 255 ms] = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ]
+2018-11-26T17:23:15.366+09:00| mks| I125: DX11Renderer: Clearing device context
+2018-11-26T17:23:15.368+09:00| mks| I125: DX11Renderer: Release D3D device
+2018-11-26T17:23:15.393+09:00| mks| I125: DX11Renderer: Releasing DXGI Adapter
+2018-11-26T17:23:15.393+09:00| mks| I125: DX11Renderer: Releasing DXGI Factory
+2018-11-26T17:23:15.394+09:00| mks| I125: DX11Renderer: Unloading modules
+2018-11-26T17:23:15.394+09:00| mks| I125: MKS-RenderMain: Stopping DX11Renderer
+2018-11-26T17:23:15.395+09:00| mks| I125: MKS PowerOff
+2018-11-26T17:23:15.395+09:00| mks| I125: MKS thread is exiting
+2018-11-26T17:23:15.413+09:00| usbCCIDEnumCards| I125: USB-CCID: Card enum thread exiting.
+2018-11-26T17:23:15.420+09:00| vmx| I125: scsi0:0: numIOs = 28631 numMergedIOs = 8211 numSplitIOs = 218 ( 2.6%)
+2018-11-26T17:23:15.420+09:00| vmx| I125: Closing disk 'scsi0:0'
+2018-11-26T17:23:16.060+09:00| vmx| I125: AIOWIN32C: asyncOps=29288 syncOps=82 bufSize=268Kb fixedOps=6249 sgOps=0 sgOn=0
+2018-11-26T17:23:16.060+09:00| aioCompletion| I125: AIO thread processed 29288 completions
+2018-11-26T17:23:16.447+09:00| vmx| I125: Vix: [mainDispatch.c:1181]: VMAutomationPowerOff: Powering off.
+2018-11-26T17:23:16.448+09:00| vmx| I125: Policy_SavePolicyFile: invalid arguments to function.
+2018-11-26T17:23:16.448+09:00| vmx| I125: PolicyVMX_Exit: Could not write out policies: 15.
+2018-11-26T17:23:16.448+09:00| vmx| I125: WORKER: asyncOps=2 maxActiveOps=1 maxPending=1 maxCompleted=1
+2018-11-26T17:23:16.452+09:00| WinNotifyThread| I125: WinNotify thread exiting
+2018-11-26T17:23:17.021+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2018-11-26T17:23:17.021+09:00| vmx| I125: Vix: [mainDispatch.c:4251]: VMAutomation: Ignoring ReportPowerOpFinished because the VMX is shutting down.
+2018-11-26T17:23:17.023+09:00| vmx| A100: ConfigDB: Setting cleanShutdown = "TRUE"
+2018-11-26T17:23:17.075+09:00| vmx| I125: Vix: [mainDispatch.c:4233]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2018-11-26T17:23:17.075+09:00| vmx| I125: Vix: [mainDispatch.c:4251]: VMAutomation: Ignoring ReportPowerOpFinished because the VMX is shutting down.
+2018-11-26T17:23:17.075+09:00| vmx| I125: Transitioned vmx/execState/val to poweredOff
+2018-11-26T17:23:17.075+09:00| vmx| I125: Vix: [mainDispatch.c:4672]: VMAutomationProcessMessage: Abort the command. VMX is shutting down
+2018-11-26T17:23:17.075+09:00| vmx| I125: VMX idle exit
+2018-11-26T17:23:17.075+09:00| vmx| I125: WQPoolFreePoll : pollIx = 3, signalHandle = 956
+2018-11-26T17:23:17.077+09:00| vmx| I125: Vix: [mainDispatch.c:833]: VMAutomation_LateShutdown()
+2018-11-26T17:23:17.077+09:00| vmx| I125: Vix: [mainDispatch.c:782]: VMAutomationCloseListenerSocket. Closing listener socket.
+2018-11-26T17:23:17.078+09:00| vmx| I125: Flushing VMX VMDB connections
+2018-11-26T17:23:17.078+09:00| vmx| I125: VmdbDbRemoveCnx: Removing Cnx from Db for '/db/connection/#1/'
+2018-11-26T17:23:17.078+09:00| vmx| I125: VmdbCnxDisconnect: Disconnect: closed pipe for pub cnx '/db/connection/#1/' (0)
+2018-11-26T17:23:17.078+09:00| vmx| I125: VigorTransport_ServerDestroy: server destroyed.
+2018-11-26T17:23:17.078+09:00| vmx| I125: WQPoolFreePoll : pollIx = 2, signalHandle = 776
+2018-11-26T17:23:17.078+09:00| vmx| I125: WQPoolFreePoll : pollIx = 1, signalHandle = 768
+2018-11-26T17:23:17.126+09:00| vmx| I125: VMX exit (0).
+2018-11-26T17:23:17.126+09:00| vmx| I125: OBJLIB-LIB: ObjLib cleanup done.
+2018-11-26T17:23:17.132+09:00| vmx| I125: AIOMGR-S : stat o=2 r=18 w=4 i=0 br=57840 bw=8332
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ION)
+2018-11-26T19:07:14.695+09:00| vmx| I125:   cap[  7]: 0x00000001 (FRAGMENT_SHADER)
+2018-11-26T19:07:14.695+09:00| vmx| I125:   cap[  8]: 0x00000008 (MAX_RENDER_TARGETS)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[  9]: 0x00000001 (S23E8_TEXTURES)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 10]: 0x00000001 (S10E5_TEXTURES)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 11]: 0x00000004 (MAX_FIXED_VERTEXBLEND)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 12]: 0x00000001 (D16_BUFFER_FORMAT)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 13]: 0x00000001 (D24S8_BUFFER_FORMAT)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 14]: 0x00000001 (D24X8_BUFFER_FORMAT)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 15]: 0x00000001 (QUERY_TYPES)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 16]: 0x00000001 (TEXTURE_GRADIENT_SAMPLING)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 17]:   1.000000 (MAX_POINT_SIZE)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 18]: 0x00000014 (MAX_SHADER_TEXTURES)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 19]: 0x00004000 (MAX_TEXTURE_WIDTH)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 20]: 0x00004000 (MAX_TEXTURE_HEIGHT)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 21]: 0x00000800 (MAX_VOLUME_EXTENT)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 22]: 0x00004000 (MAX_TEXTURE_REPEAT)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 23]: 0x00004000 (MAX_TEXTURE_ASPECT_RATIO)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 24]: 0x00000010 (MAX_TEXTURE_ANISOTROPY)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 25]: 0x001fffff (MAX_PRIMITIVE_COUNT)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 26]: 0x000fffff (MAX_VERTEX_INDEX)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 27]: 0x0000ffff (MAX_VERTEX_SHADER_INSTRUCTIONS)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 28]: 0x0000ffff (MAX_FRAGMENT_SHADER_INSTRUCTIONS)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 29]: 0x00000020 (MAX_VERTEX_SHADER_TEMPS)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 30]: 0x00000020 (MAX_FRAGMENT_SHADER_TEMPS)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 31]: 0x03ffffff (TEXTURE_OPS)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 32]: 0x0018ec1f (SURFACEFMT_X8R8G8B8)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 33]: 0x0018e11f (SURFACEFMT_A8R8G8B8)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 34]: 0x0008601f (SURFACEFMT_A2R10G10B10)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 35]: 0x0008601f (SURFACEFMT_X1R5G5B5)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 36]: 0x0008611f (SURFACEFMT_A1R5G5B5)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 37]: 0x0000611f (SURFACEFMT_A4R4G4B4)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 38]: 0x0018ec1f (SURFACEFMT_R5G6B5)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 39]: 0x0000601f (SURFACEFMT_LUMINANCE16)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 40]: 0x00006007 (SURFACEFMT_LUMINANCE8_ALPHA8)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 41]: 0x0000601f (SURFACEFMT_ALPHA8)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 42]: 0x0000601f (SURFACEFMT_LUMINANCE8)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 43]: 0x000040c5 (SURFACEFMT_Z_D16)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 44]: 0x000040c5 (SURFACEFMT_Z_D24S8)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 45]: 0x000040c5 (SURFACEFMT_Z_D24X8)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 46]: 0x0000e005 (SURFACEFMT_DXT1)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 47]: 0x0000e005 (SURFACEFMT_DXT2)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 48]: 0x0000e005 (SURFACEFMT_DXT3)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 49]: 0x0000e005 (SURFACEFMT_DXT4)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 50]: 0x0000e005 (SURFACEFMT_DXT5)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 51]: 0x00014005 (SURFACEFMT_BUMPX8L8V8U8)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 52]: 0x00014007 (SURFACEFMT_A2W10V10U10)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 53]: 0x00014007 (SURFACEFMT_BUMPU8V8)
+2018-11-26T19:07:14.700+09:00| vmx| I125:   cap[ 54]: 0x00014005 (SURFACEFMT_Q8W8V8U8)
+2018-11-26T19:07:14.705+09:00| vmx| I125:   cap[ 55]: 0x00014001 (SURFACEFMT_CxV8U8)
+2018-11-26T19:07:14.705+09:00| vmx| I125:   cap[ 56]: 0x0080601f (SURFACEFMT_R_S10E5)
+2018-11-26T19:07:14.705+09:00| vmx| I125:   cap[ 57]: 0x0080601f (SURFACEFMT_R_S23E8)
+2018-11-26T19:07:14.705+09:00| vmx| I125:   cap[ 58]: 0x0080601f (SURFACEFMT_RG_S10E5)
+2018-11-26T19:07:14.705+09:00| vmx| I125:   cap[ 59]: 0x0080601f (SURFACEFMT_RG_S23E8)
+2018-11-26T19:07:14.705+09:00| vmx| I125:   cap[ 60]: 0x0080601f (SURFACEFMT_ARGB_S10E5)
+2018-11-26T19:07:14.705+09:00| vmx| I125:   cap[ 61]: 0x0080601f (SURFACEFMT_ARGB_S23E8)
+2018-11-26T19:07:14.705+09:00| vmx| I125:   cap[ 62]: 0x00000000 (MISSING62)
+2018-11-26T19:07:14.705+09:00| vmx| I125:   cap[ 63]: 0x00000004 (MAX_VERTEX_SHADER_TEXTURES)
+2018-11-26T19:07:14.705+09:00| vmx| I125:   cap[ 64]: 0x00000008 (MAX_SIMULTANEOUS_RENDER_TARGETS)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 65]: 0x00014007 (SURFACEFMT_V16U16)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 66]: 0x0000601f (SURFACEFMT_G16R16)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 67]: 0x0000601f (SURFACEFMT_A16B16G16R16)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 68]: 0x01246000 (SURFACEFMT_UYVY)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 69]: 0x01246000 (SURFACEFMT_YUY2)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 70]: 0x00000000 (DEAD4)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 71]: 0x00000000 (DEAD5)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 72]: 0x00000000 (DEAD7)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 73]: 0x00000000 (DEAD6)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 74]: 0x00000001 (AUTOGENMIPMAPS)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 75]: 0x01246000 (SURFACEFMT_NV12)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 76]: 0x01044000 (SURFACEFMT_AYUV)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 77]: 0x00000100 (MAX_CONTEXT_IDS)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 78]: 0x00008000 (MAX_SURFACE_IDS)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 79]: 0x000040c5 (SURFACEFMT_Z_DF16)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 80]: 0x000040c5 (SURFACEFMT_Z_DF24)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 81]: 0x000040c5 (SURFACEFMT_Z_D24S8_INT)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 82]: 0x00006005 (SURFACEFMT_ATI1)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 83]: 0x00006005 (SURFACEFMT_ATI2)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 84]: 0x00000000 (DEAD1)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 85]: 0x00000000 (VIDEO_DECODE)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 86]: 0x00000000 (VIDEO_PROCESS)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 87]: 0x00000000 (LINE_AA)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 88]: 0x00000000 (LINE_STIPPLE)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 89]:   1.000000 (MAX_LINE_WIDTH)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 90]:   0.000000 (MAX_AA_LINE_WIDTH)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 91]: 0x01246000 (SURFACEFMT_YV12)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 92]: 0x00000001 (DEAD3)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 93]: 0x00000001 (TS_COLOR_KEY)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 94]: 0x00000000 (DEAD2)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 95]: 0x00000001 (DXCONTEXT)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 96]: 0x00000200 (MAX_TEXTURE_ARRAY_SIZE)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 97]: 0x00000010 (DX_MAX_VERTEXBUFFERS)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 98]: 0x0000000e (DX_MAX_CONSTANT_BUFFERS)
+2018-11-26T19:07:14.706+09:00| vmx| I125:   cap[ 99]: 0x00000000 (DX_PROVOKING_VERTEX)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[100]: 0x000002f7 (DXFMT_X8R8G8B8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[101]: 0x000003f7 (DXFMT_A8R8G8B8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[102]: 0x000002f7 (DXFMT_R5G6B5)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[103]: 0x000000f7 (DXFMT_X1R5G5B5)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[104]: 0x000000f7 (DXFMT_A1R5G5B5)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[105]: 0x000000f7 (DXFMT_A4R4G4B4)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[106]: 0x00000009 (DXFMT_Z_D32)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[107]: 0x0000026b (DXFMT_Z_D16)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[108]: 0x0000026b (DXFMT_Z_D24S8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[109]: 0x0000000b (DXFMT_Z_D15S1)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[110]: 0x000000f7 (DXFMT_LUMINANCE8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[111]: 0x000000e3 (DXFMT_LUMINANCE4_ALPHA4)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[112]: 0x000000f7 (DXFMT_LUMINANCE16)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[113]: 0x000000e3 (DXFMT_LUMINANCE8_ALPHA8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[114]: 0x00000063 (DXFMT_DXT1)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[115]: 0x00000063 (DXFMT_DXT2)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[116]: 0x00000063 (DXFMT_DXT3)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[117]: 0x00000063 (DXFMT_DXT4)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[118]: 0x00000063 (DXFMT_DXT5)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[119]: 0x000000e3 (DXFMT_BUMPU8V8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[120]: 0x00000000 (DXFMT_BUMPL6V5U5)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[121]: 0x00000063 (DXFMT_BUMPX8L8V8U8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[122]: 0x00000000 (DXFMT_FORMAT_DEAD1)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[123]: 0x000003f7 (DXFMT_ARGB_S10E5)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[124]: 0x000003f7 (DXFMT_ARGB_S23E8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[125]: 0x000003f7 (DXFMT_A2R10G10B10)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[126]: 0x000000e3 (DXFMT_V8U8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[127]: 0x00000063 (DXFMT_Q8W8V8U8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[128]: 0x00000063 (DXFMT_CxV8U8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[129]: 0x000000e3 (DXFMT_X8L8V8U8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[130]: 0x000000e3 (DXFMT_A2W10V10U10)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[131]: 0x000000f7 (DXFMT_ALPHA8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[132]: 0x000003f7 (DXFMT_R_S10E5)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[133]: 0x000003f7 (DXFMT_R_S23E8)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[134]: 0x000003f7 (DXFMT_RG_S10E5)
+2018-11-26T19:07:14.710+09:00| vmx| I125:   cap[135]: 0x000003f7 (DXFMT_RG_S23E8)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[136]: 0x00000001 (DXFMT_BUFFER)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[137]: 0x0000026b (DXFMT_Z_D24X8)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[138]: 0x000001e3 (DXFMT_V16U16)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[139]: 0x000003f7 (DXFMT_G16R16)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[140]: 0x000001f7 (DXFMT_A16B16G16R16)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[141]: 0x00000001 (DXFMT_UYVY)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[142]: 0x00000001 (DXFMT_YUY2)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[143]: 0x00000001 (DXFMT_NV12)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[144]: 0x00000001 (DXFMT_AYUV)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[145]: 0x000002e1 (DXFMT_R32G32B32A32_TYPELESS)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[146]: 0x000003e7 (DXFMT_R32G32B32A32_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[147]: 0x000003e7 (DXFMT_R32G32B32A32_SINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[148]: 0x000000e1 (DXFMT_R32G32B32_TYPELESS)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[149]: 0x000001e3 (DXFMT_R32G32B32_FLOAT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[150]: 0x000001e3 (DXFMT_R32G32B32_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[151]: 0x000001e3 (DXFMT_R32G32B32_SINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[152]: 0x000002e1 (DXFMT_R16G16B16A16_TYPELESS)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[153]: 0x000003e7 (DXFMT_R16G16B16A16_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[154]: 0x000003f7 (DXFMT_R16G16B16A16_SNORM)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[155]: 0x000003e7 (DXFMT_R16G16B16A16_SINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[156]: 0x000002e1 (DXFMT_R32G32_TYPELESS)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[157]: 0x000003e7 (DXFMT_R32G32_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[158]: 0x000003e7 (DXFMT_R32G32_SINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[159]: 0x00000261 (DXFMT_R32G8X24_TYPELESS)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[160]: 0x00000269 (DXFMT_D32_FLOAT_S8X24_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[161]: 0x00000063 (DXFMT_R32_FLOAT_X8X24)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[162]: 0x00000063 (DXFMT_X32_G8X24_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[163]: 0x000002e1 (DXFMT_R10G10B10A2_TYPELESS)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[164]: 0x000003e7 (DXFMT_R10G10B10A2_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[165]: 0x000003f7 (DXFMT_R11G11B10_FLOAT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[166]: 0x000002e1 (DXFMT_R8G8B8A8_TYPELESS)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[167]: 0x000003f7 (DXFMT_R8G8B8A8_UNORM)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[168]: 0x000002f7 (DXFMT_R8G8B8A8_UNORM_SRGB)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[169]: 0x000003e7 (DXFMT_R8G8B8A8_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[170]: 0x000003e7 (DXFMT_R8G8B8A8_SINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[171]: 0x000002e1 (DXFMT_R16G16_TYPELESS)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[172]: 0x000003e7 (DXFMT_R16G16_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[173]: 0x000003e7 (DXFMT_R16G16_SINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[174]: 0x000002e1 (DXFMT_R32_TYPELESS)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[175]: 0x00000269 (DXFMT_D32_FLOAT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[176]: 0x000003e7 (DXFMT_R32_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[177]: 0x000003e7 (DXFMT_R32_SINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[178]: 0x00000261 (DXFMT_R24G8_TYPELESS)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[179]: 0x00000269 (DXFMT_D24_UNORM_S8_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[180]: 0x00000063 (DXFMT_R24_UNORM_X8)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[181]: 0x00000063 (DXFMT_X24_G8_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[182]: 0x000002e1 (DXFMT_R8G8_TYPELESS)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[183]: 0x000003f7 (DXFMT_R8G8_UNORM)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[184]: 0x000003e7 (DXFMT_R8G8_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[185]: 0x000003e7 (DXFMT_R8G8_SINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[186]: 0x000002e1 (DXFMT_R16_TYPELESS)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[187]: 0x000003f7 (DXFMT_R16_UNORM)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[188]: 0x000003e7 (DXFMT_R16_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[189]: 0x000003f7 (DXFMT_R16_SNORM)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[190]: 0x000003e7 (DXFMT_R16_SINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[191]: 0x000002e1 (DXFMT_R8_TYPELESS)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[192]: 0x000003f7 (DXFMT_R8_UNORM)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[193]: 0x000003e7 (DXFMT_R8_UINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[194]: 0x000003f7 (DXFMT_R8_SNORM)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[195]: 0x000003e7 (DXFMT_R8_SINT)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[196]: 0x00000001 (DXFMT_P8)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[197]: 0x000000e3 (DXFMT_R9G9B9E5_SHAREDEXP)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[198]: 0x000000e3 (DXFMT_R8G8_B8G8_UNORM)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[199]: 0x000000e3 (DXFMT_G8R8_G8B8_UNORM)
+2018-11-26T19:07:14.713+09:00| vmx| I125:   cap[200]: 0x000000e1 (DXFMT_BC1_TYPELESS)
+2018-11-26T19:07:14.720+09:00| vmx| I125:   cap[201]: 0x000000e3 (DXFMT_BC1_UNORM_SRGB)
+2018-11-26T19:07:14.720+09:00| vmx| I125:   cap[202]: 0x000000e1 (DXFMT_BC2_TYPELESS)
+2018-11-26T19:07:14.720+09:00| vmx| I125:   cap[203]: 0x000000e3 (DXFMT_BC2_UNORM_SRGB)
+2018-11-26T19:07:14.720+09:00| vmx| I125:   cap[204]: 0x000000e1 (DXFMT_BC3_TYPELESS)
+2018-11-26T19:07:14.720+09:00| vmx| I125:   cap[205]: 0x000000e3 (DXFMT_BC3_UNORM_SRGB)
+2018-11-26T19:07:14.720+09:00| vmx| I125:   cap[206]: 0x000000e1 (DXFMT_BC4_TYPELESS)
+2018-11-26T19:07:14.720+09:00| vmx| I125:   cap[207]: 0x00000063 (DXFMT_ATI1)
+2018-11-26T19:07:14.720+09:00| vmx| I125:   cap[208]: 0x000000e3 (DXFMT_BC4_SNORM)
+2018-11-26T19:07:14.720+09:00| vmx| I125:   cap[209]: 0x000000e1 (DXFMT_BC5_TYPELESS)
+2018-11-26T19:07:14.720+09:00| vmx| I125:   cap[210]: 0x00000063 (DXFMT_ATI2)
+2018-11-26T19:07:14.720+09:00| vmx| I125:   cap[211]: 0x000000e3 (DXFMT_BC5_SNORM)
+2018-11-26T19:07:14.721+09:00| vmx| I125:   cap[212]: 0x00000045 (DXFMT_R10G10B10_XR_BIAS_A2_UNORM)
+2018-11-26T19:07:14.721+09:00| vmx| I125:   cap[213]: 0x000002e1 (DXFMT_B8G8R8A8_TYPELESS)
+2018-11-26T19:07:14.721+09:00| vmx| I125:   cap[214]: 0x000002f7 (DXFMT_B8G8R8A8_UNORM_SRGB)
+2018-11-26T19:07:14.721+09:00| vmx| I125:   cap[215]: 0x000002e1 (DXFMT_B8G8R8X8_TYPELESS)
+2018-11-26T19:07:14.721+09:00| vmx| I125:   cap[216]: 0x000002f7 (DXFMT_B8G8R8X8_UNORM_SRGB)
+2018-11-26T19:07:14.721+09:00| vmx| I125:   cap[217]: 0x0000006b (DXFMT_Z_DF16)
+2018-11-26T19:07:14.721+09:00| vmx| I125:   cap[218]: 0x0000006b (DXFMT_Z_DF24)
+2018-11-26T19:07:14.721+09:00| vmx| I125:   cap[219]: 0x0000006b (DXFMT_Z_D24S8_INT)
+2018-11-26T19:07:14.721+09:00| vmx| I125:   cap[220]: 0x00000001 (DXFMT_YV12)
+2018-11-26T19:07:14.721+09:00| vmx| I125:   cap[221]: 0x000003f7 (DXFMT_R32G32B32A32_FLOAT)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[222]: 0x000003f7 (DXFMT_R16G16B16A16_FLOAT)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[223]: 0x000003f7 (DXFMT_R16G16B16A16_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[224]: 0x000003f7 (DXFMT_R32G32_FLOAT)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[225]: 0x000003f7 (DXFMT_R10G10B10A2_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[226]: 0x000003f7 (DXFMT_R8G8B8A8_SNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[227]: 0x000003f7 (DXFMT_R16G16_FLOAT)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[228]: 0x000003f7 (DXFMT_R16G16_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[229]: 0x000003f7 (DXFMT_R16G16_SNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[230]: 0x000003f7 (DXFMT_R32_FLOAT)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[231]: 0x000003f7 (DXFMT_R8G8_SNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[232]: 0x000003f7 (DXFMT_R16_FLOAT)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[233]: 0x00000269 (DXFMT_D16_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[234]: 0x000002f7 (DXFMT_A8_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[235]: 0x000000e3 (DXFMT_BC1_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[236]: 0x000000e3 (DXFMT_BC2_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[237]: 0x000000e3 (DXFMT_BC3_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[238]: 0x000002f7 (DXFMT_B5G6R5_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[239]: 0x000000f7 (DXFMT_B5G5R5A1_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[240]: 0x000003f7 (DXFMT_B8G8R8A8_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[241]: 0x000003f7 (DXFMT_B8G8R8X8_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[242]: 0x000000e3 (DXFMT_BC4_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[243]: 0x000000e3 (DXFMT_BC5_UNORM)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[244]: 0x00000001 (SM41)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[245]: 0x00000001 (MULTISAMPLE_2X)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[246]: 0x00000001 (MULTISAMPLE_4X)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[247]: 0x00000000 (LOGIC_BLENDOPS)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[248]: 0x00000001 (ALLOW_D16_L16_COPY)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[249]: 0x00000001 (LOGICOPS)
+2018-11-26T19:07:14.722+09:00| vmx| I125: SVGA3dCaps: guest, compatibility level: No-Clamping
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[  0]: 0x00000001 (3D)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[  1]: 0x00000008 (MAX_LIGHTS)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[  2]: 0x00000008 (MAX_TEXTURES)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[  3]: 0x00000008 (MAX_CLIP_PLANES)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[  4]: 0x00000007 (VERTEX_SHADER_VERSION)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[  5]: 0x00000001 (VERTEX_SHADER)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[  6]: 0x0000000d (FRAGMENT_SHADER_VERSION)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[  7]: 0x00000001 (FRAGMENT_SHADER)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[  8]: 0x00000008 (MAX_RENDER_TARGETS)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[  9]: 0x00000001 (S23E8_TEXTURES)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 10]: 0x00000001 (S10E5_TEXTURES)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 11]: 0x00000004 (MAX_FIXED_VERTEXBLEND)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 12]: 0x00000001 (D16_BUFFER_FORMAT)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 13]: 0x00000001 (D24S8_BUFFER_FORMAT)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 14]: 0x00000001 (D24X8_BUFFER_FORMAT)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 15]: 0x00000001 (QUERY_TYPES)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 16]: 0x00000001 (TEXTURE_GRADIENT_SAMPLING)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 17]:   1.000000 (MAX_POINT_SIZE)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 18]: 0x00000014 (MAX_SHADER_TEXTURES)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 19]: 0x00004000 (MAX_TEXTURE_WIDTH)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 20]: 0x00004000 (MAX_TEXTURE_HEIGHT)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 21]: 0x00000800 (MAX_VOLUME_EXTENT)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 22]: 0x00004000 (MAX_TEXTURE_REPEAT)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 23]: 0x00004000 (MAX_TEXTURE_ASPECT_RATIO)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 24]: 0x00000010 (MAX_TEXTURE_ANISOTROPY)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 25]: 0x001fffff (MAX_PRIMITIVE_COUNT)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 26]: 0x000fffff (MAX_VERTEX_INDEX)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 27]: 0x0000ffff (MAX_VERTEX_SHADER_INSTRUCTIONS)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 28]: 0x0000ffff (MAX_FRAGMENT_SHADER_INSTRUCTIONS)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 29]: 0x00000020 (MAX_VERTEX_SHADER_TEMPS)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 30]: 0x00000020 (MAX_FRAGMENT_SHADER_TEMPS)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 31]: 0x03ffffff (TEXTURE_OPS)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 32]: 0x0018ec1f (SURFACEFMT_X8R8G8B8)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 33]: 0x0018e11f (SURFACEFMT_A8R8G8B8)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 34]: 0x0008601f (SURFACEFMT_A2R10G10B10)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 35]: 0x0008601f (SURFACEFMT_X1R5G5B5)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 36]: 0x0008611f (SURFACEFMT_A1R5G5B5)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 37]: 0x0000611f (SURFACEFMT_A4R4G4B4)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 38]: 0x0018ec1f (SURFACEFMT_R5G6B5)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 39]: 0x0000601f (SURFACEFMT_LUMINANCE16)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 40]: 0x00006007 (SURFACEFMT_LUMINANCE8_ALPHA8)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 41]: 0x0000601f (SURFACEFMT_ALPHA8)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 42]: 0x0000601f (SURFACEFMT_LUMINANCE8)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 43]: 0x000040c5 (SURFACEFMT_Z_D16)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 44]: 0x000040c5 (SURFACEFMT_Z_D24S8)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 45]: 0x000040c5 (SURFACEFMT_Z_D24X8)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 46]: 0x0000e005 (SURFACEFMT_DXT1)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 47]: 0x0000e005 (SURFACEFMT_DXT2)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 48]: 0x0000e005 (SURFACEFMT_DXT3)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 49]: 0x0000e005 (SURFACEFMT_DXT4)
+2018-11-26T19:07:14.722+09:00| vmx| I125:   cap[ 50]: 0x0000e005 (SURFACEFMT_DXT5)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 51]: 0x00014005 (SURFACEFMT_BUMPX8L8V8U8)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 52]: 0x00014007 (SURFACEFMT_A2W10V10U10)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 53]: 0x00014007 (SURFACEFMT_BUMPU8V8)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 54]: 0x00014005 (SURFACEFMT_Q8W8V8U8)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 55]: 0x00014001 (SURFACEFMT_CxV8U8)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 56]: 0x0080601f (SURFACEFMT_R_S10E5)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 57]: 0x0080601f (SURFACEFMT_R_S23E8)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 58]: 0x0080601f (SURFACEFMT_RG_S10E5)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 59]: 0x0080601f (SURFACEFMT_RG_S23E8)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 60]: 0x0080601f (SURFACEFMT_ARGB_S10E5)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 61]: 0x0080601f (SURFACEFMT_ARGB_S23E8)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 62]: 0x00000000 (MISSING62)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 63]: 0x00000004 (MAX_VERTEX_SHADER_TEXTURES)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 64]: 0x00000008 (MAX_SIMULTANEOUS_RENDER_TARGETS)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 65]: 0x00014007 (SURFACEFMT_V16U16)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 66]: 0x0000601f (SURFACEFMT_G16R16)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 67]: 0x0000601f (SURFACEFMT_A16B16G16R16)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 68]: 0x01246000 (SURFACEFMT_UYVY)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 69]: 0x01246000 (SURFACEFMT_YUY2)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 70]: 0x00000000 (DEAD4)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 71]: 0x00000000 (DEAD5)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 72]: 0x00000000 (DEAD7)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 73]: 0x00000000 (DEAD6)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 74]: 0x00000001 (AUTOGENMIPMAPS)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 75]: 0x01246000 (SURFACEFMT_NV12)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 76]: 0x01044000 (SURFACEFMT_AYUV)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 77]: 0x00000100 (MAX_CONTEXT_IDS)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 78]: 0x00008000 (MAX_SURFACE_IDS)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 79]: 0x000040c5 (SURFACEFMT_Z_DF16)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 80]: 0x000040c5 (SURFACEFMT_Z_DF24)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 81]: 0x000040c5 (SURFACEFMT_Z_D24S8_INT)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 82]: 0x00006005 (SURFACEFMT_ATI1)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 83]: 0x00006005 (SURFACEFMT_ATI2)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 84]: 0x00000000 (DEAD1)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 85]: 0x00000000 (VIDEO_DECODE)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 86]: 0x00000000 (VIDEO_PROCESS)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 87]: 0x00000000 (LINE_AA)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 88]: 0x00000000 (LINE_STIPPLE)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 89]:   1.000000 (MAX_LINE_WIDTH)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 90]:   0.000000 (MAX_AA_LINE_WIDTH)
+2018-11-26T19:07:14.730+09:00| vmx| I125:   cap[ 91]: 0x01246000 (SURFACEFMT_YV12)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[ 92]: 0x00000001 (DEAD3)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[ 93]: 0x00000001 (TS_COLOR_KEY)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[ 94]: 0x00000000 (DEAD2)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[ 95]: 0x00000001 (DXCONTEXT)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[ 96]: 0x00000200 (MAX_TEXTURE_ARRAY_SIZE)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[ 97]: 0x00000010 (DX_MAX_VERTEXBUFFERS)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[ 98]: 0x0000000e (DX_MAX_CONSTANT_BUFFERS)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[ 99]: 0x00000000 (DX_PROVOKING_VERTEX)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[100]: 0x000002f7 (DXFMT_X8R8G8B8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[101]: 0x000003f7 (DXFMT_A8R8G8B8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[102]: 0x000002f7 (DXFMT_R5G6B5)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[103]: 0x000000f7 (DXFMT_X1R5G5B5)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[104]: 0x000000f7 (DXFMT_A1R5G5B5)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[105]: 0x000000f7 (DXFMT_A4R4G4B4)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[106]: 0x00000009 (DXFMT_Z_D32)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[107]: 0x0000026b (DXFMT_Z_D16)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[108]: 0x0000026b (DXFMT_Z_D24S8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[109]: 0x0000000b (DXFMT_Z_D15S1)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[110]: 0x000000f7 (DXFMT_LUMINANCE8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[111]: 0x000000e3 (DXFMT_LUMINANCE4_ALPHA4)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[112]: 0x000000f7 (DXFMT_LUMINANCE16)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[113]: 0x000000e3 (DXFMT_LUMINANCE8_ALPHA8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[114]: 0x00000063 (DXFMT_DXT1)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[115]: 0x00000063 (DXFMT_DXT2)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[116]: 0x00000063 (DXFMT_DXT3)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[117]: 0x00000063 (DXFMT_DXT4)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[118]: 0x00000063 (DXFMT_DXT5)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[119]: 0x000000e3 (DXFMT_BUMPU8V8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[120]: 0x00000000 (DXFMT_BUMPL6V5U5)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[121]: 0x00000063 (DXFMT_BUMPX8L8V8U8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[122]: 0x00000000 (DXFMT_FORMAT_DEAD1)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[123]: 0x000003f7 (DXFMT_ARGB_S10E5)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[124]: 0x000003f7 (DXFMT_ARGB_S23E8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[125]: 0x000003f7 (DXFMT_A2R10G10B10)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[126]: 0x000000e3 (DXFMT_V8U8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[127]: 0x00000063 (DXFMT_Q8W8V8U8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[128]: 0x00000063 (DXFMT_CxV8U8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[129]: 0x000000e3 (DXFMT_X8L8V8U8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[130]: 0x000000e3 (DXFMT_A2W10V10U10)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[131]: 0x000000f7 (DXFMT_ALPHA8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[132]: 0x000003f7 (DXFMT_R_S10E5)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[133]: 0x000003f7 (DXFMT_R_S23E8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[134]: 0x000003f7 (DXFMT_RG_S10E5)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[135]: 0x000003f7 (DXFMT_RG_S23E8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[136]: 0x00000001 (DXFMT_BUFFER)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[137]: 0x0000026b (DXFMT_Z_D24X8)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[138]: 0x000001e3 (DXFMT_V16U16)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[139]: 0x000003f7 (DXFMT_G16R16)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[140]: 0x000001f7 (DXFMT_A16B16G16R16)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[141]: 0x00000001 (DXFMT_UYVY)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[142]: 0x00000001 (DXFMT_YUY2)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[143]: 0x00000001 (DXFMT_NV12)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[144]: 0x00000001 (DXFMT_AYUV)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[145]: 0x000002e1 (DXFMT_R32G32B32A32_TYPELESS)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[146]: 0x000003e7 (DXFMT_R32G32B32A32_UINT)
+2018-11-26T19:07:14.734+09:00| vmx| I125:   cap[147]: 0x000003e7 (DXFMT_R32G32B32A32_SINT)
+2018-11-26T19:07:14.740+09:00| vmx| I125:   cap[148]: 0x000000e1 (DXFMT_R32G32B32_TYPELESS)
+2018-11-26T19:07:14.740+09:00| vmx| I125:   cap[149]: 0x000001e3 (DXFMT_R32G32B32_FLOAT)
+2018-11-26T19:07:14.740+09:00| vmx| I125:   cap[150]: 0x000001e3 (DXFMT_R32G32B32_UINT)
+2018-11-26T19:07:14.740+09:00| vmx| I125:   cap[151]: 0x000001e3 (DXFMT_R32G32B32_SINT)
+2018-11-26T19:07:14.740+09:00| vmx| I125:   cap[152]: 0x000002e1 (DXFMT_R16G16B16A16_TYPELESS)
+2018-11-26T19:07:14.740+09:00| vmx| I125:   cap[153]: 0x000003e7 (DXFMT_R16G16B16A16_UINT)
+2018-11-26T19:07:14.740+09:00| vmx| I125:   cap[154]: 0x000003f7 (DXFMT_R16G16B16A16_SNORM)
+2018-11-26T19:07:14.740+09:00| vmx| I125:   cap[155]: 0x000003e7 (DXFMT_R16G16B16A16_SINT)
+2018-11-26T19:07:14.740+09:00| vmx| I125:   cap[156]: 0x000002e1 (DXFMT_R32G32_TYPELESS)
+2018-11-26T19:07:14.740+09:00| vmx| I125:   cap[157]: 0x000003e7 (DXFMT_R32G32_UINT)
+2018-11-26T19:07:14.740+09:00| vmx| I125:   cap[158]: 0x000003e7 (DXFMT_R32G32_SINT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[159]: 0x00000261 (DXFMT_R32G8X24_TYPELESS)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[160]: 0x00000269 (DXFMT_D32_FLOAT_S8X24_UINT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[161]: 0x00000063 (DXFMT_R32_FLOAT_X8X24)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[162]: 0x00000063 (DXFMT_X32_G8X24_UINT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[163]: 0x000002e1 (DXFMT_R10G10B10A2_TYPELESS)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[164]: 0x000003e7 (DXFMT_R10G10B10A2_UINT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[165]: 0x000003f7 (DXFMT_R11G11B10_FLOAT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[166]: 0x000002e1 (DXFMT_R8G8B8A8_TYPELESS)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[167]: 0x000003f7 (DXFMT_R8G8B8A8_UNORM)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[168]: 0x000002f7 (DXFMT_R8G8B8A8_UNORM_SRGB)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[169]: 0x000003e7 (DXFMT_R8G8B8A8_UINT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[170]: 0x000003e7 (DXFMT_R8G8B8A8_SINT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[171]: 0x000002e1 (DXFMT_R16G16_TYPELESS)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[172]: 0x000003e7 (DXFMT_R16G16_UINT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[173]: 0x000003e7 (DXFMT_R16G16_SINT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[174]: 0x000002e1 (DXFMT_R32_TYPELESS)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[175]: 0x00000269 (DXFMT_D32_FLOAT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[176]: 0x000003e7 (DXFMT_R32_UINT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[177]: 0x000003e7 (DXFMT_R32_SINT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[178]: 0x00000261 (DXFMT_R24G8_TYPELESS)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[179]: 0x00000269 (DXFMT_D24_UNORM_S8_UINT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[180]: 0x00000063 (DXFMT_R24_UNORM_X8)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[181]: 0x00000063 (DXFMT_X24_G8_UINT)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[182]: 0x000002e1 (DXFMT_R8G8_TYPELESS)
+2018-11-26T19:07:14.741+09:00| vmx| I125:   cap[183]: 0x000003f7 (DXFMT_R8G8_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[184]: 0x000003e7 (DXFMT_R8G8_UINT)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[185]: 0x000003e7 (DXFMT_R8G8_SINT)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[186]: 0x000002e1 (DXFMT_R16_TYPELESS)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[187]: 0x000003f7 (DXFMT_R16_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[188]: 0x000003e7 (DXFMT_R16_UINT)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[189]: 0x000003f7 (DXFMT_R16_SNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[190]: 0x000003e7 (DXFMT_R16_SINT)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[191]: 0x000002e1 (DXFMT_R8_TYPELESS)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[192]: 0x000003f7 (DXFMT_R8_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[193]: 0x000003e7 (DXFMT_R8_UINT)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[194]: 0x000003f7 (DXFMT_R8_SNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[195]: 0x000003e7 (DXFMT_R8_SINT)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[196]: 0x00000001 (DXFMT_P8)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[197]: 0x000000e3 (DXFMT_R9G9B9E5_SHAREDEXP)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[198]: 0x000000e3 (DXFMT_R8G8_B8G8_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[199]: 0x000000e3 (DXFMT_G8R8_G8B8_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[200]: 0x000000e1 (DXFMT_BC1_TYPELESS)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[201]: 0x000000e3 (DXFMT_BC1_UNORM_SRGB)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[202]: 0x000000e1 (DXFMT_BC2_TYPELESS)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[203]: 0x000000e3 (DXFMT_BC2_UNORM_SRGB)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[204]: 0x000000e1 (DXFMT_BC3_TYPELESS)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[205]: 0x000000e3 (DXFMT_BC3_UNORM_SRGB)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[206]: 0x000000e1 (DXFMT_BC4_TYPELESS)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[207]: 0x00000063 (DXFMT_ATI1)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[208]: 0x000000e3 (DXFMT_BC4_SNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[209]: 0x000000e1 (DXFMT_BC5_TYPELESS)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[210]: 0x00000063 (DXFMT_ATI2)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[211]: 0x000000e3 (DXFMT_BC5_SNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[212]: 0x00000045 (DXFMT_R10G10B10_XR_BIAS_A2_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[213]: 0x000002e1 (DXFMT_B8G8R8A8_TYPELESS)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[214]: 0x000002f7 (DXFMT_B8G8R8A8_UNORM_SRGB)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[215]: 0x000002e1 (DXFMT_B8G8R8X8_TYPELESS)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[216]: 0x000002f7 (DXFMT_B8G8R8X8_UNORM_SRGB)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[217]: 0x0000006b (DXFMT_Z_DF16)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[218]: 0x0000006b (DXFMT_Z_DF24)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[219]: 0x0000006b (DXFMT_Z_D24S8_INT)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[220]: 0x00000001 (DXFMT_YV12)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[221]: 0x000003f7 (DXFMT_R32G32B32A32_FLOAT)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[222]: 0x000003f7 (DXFMT_R16G16B16A16_FLOAT)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[223]: 0x000003f7 (DXFMT_R16G16B16A16_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[224]: 0x000003f7 (DXFMT_R32G32_FLOAT)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[225]: 0x000003f7 (DXFMT_R10G10B10A2_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[226]: 0x000003f7 (DXFMT_R8G8B8A8_SNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[227]: 0x000003f7 (DXFMT_R16G16_FLOAT)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[228]: 0x000003f7 (DXFMT_R16G16_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[229]: 0x000003f7 (DXFMT_R16G16_SNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[230]: 0x000003f7 (DXFMT_R32_FLOAT)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[231]: 0x000003f7 (DXFMT_R8G8_SNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[232]: 0x000003f7 (DXFMT_R16_FLOAT)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[233]: 0x00000269 (DXFMT_D16_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[234]: 0x000002f7 (DXFMT_A8_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[235]: 0x000000e3 (DXFMT_BC1_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[236]: 0x000000e3 (DXFMT_BC2_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[237]: 0x000000e3 (DXFMT_BC3_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[238]: 0x000002f7 (DXFMT_B5G6R5_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[239]: 0x000000f7 (DXFMT_B5G5R5A1_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[240]: 0x000003f7 (DXFMT_B8G8R8A8_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[241]: 0x000003f7 (DXFMT_B8G8R8X8_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[242]: 0x000000e3 (DXFMT_BC4_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[243]: 0x000000e3 (DXFMT_BC5_UNORM)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[244]: 0x00000001 (SM41)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[245]: 0x00000001 (MULTISAMPLE_2X)
+2018-11-26T19:07:14.744+09:00| vmx| I125:   cap[246]: 0x00000001 (MULTISAMPLE_4X)
+2018-11-26T19:07:14.744+09:00| svga| I125: VTHREAD 11212 "svga"
+2018-11-26T19:07:14.744+09:00| vmx| I125: USB: Initializing 'UHCI' host controller
+2018-11-26T19:07:14.744+09:00| vmx| A100: ConfigDB: Setting usb:0.present = "TRUE"
+2018-11-26T19:07:14.744+09:00| vmx| A100: ConfigDB: Setting usb:0.deviceType = "hid"
+2018-11-26T19:07:14.744+09:00| vmx| A100: ConfigDB: Setting usb:0.port = "0"
+2018-11-26T19:07:14.744+09:00| vmx| A100: ConfigDB: Setting usb:0.parent = "-1"
+2018-11-26T19:07:14.764+09:00| vmx| A100: ConfigDB: Setting usb:1.speed = "2"
+2018-11-26T19:07:14.772+09:00| vmx| I125: Ethernet0 MAC Address: 00:0c:29:97:1c:e7
+2018-11-26T19:07:14.781+09:00| vmx| I125: USB: Initializing 'EHCI' host controller
+2018-11-26T19:07:14.784+09:00| vmx| A100: ConfigDB: Setting vmci0.id = "-191423257"
+2018-11-26T19:07:14.793+09:00| vmx| I125: AHCI:Successfully created adapter 'sata0' as num 0
+2018-11-26T19:07:14.793+09:00| vmx| I125: SCSI DEVICE (sata0:1): Computed value of sata0:1.useBounceBuffers: default
+2018-11-26T19:07:14.793+09:00| vmx| I125: DISKUTIL: sata0:1 : capacity=0 logical sector size=2048
+2018-11-26T19:07:14.793+09:00| vmx| I125: DISKUTIL: sata0:1 : geometry=0/0/0
+2018-11-26T19:07:14.793+09:00| vmx| I125: AHCI:Creating ATAPI CDROM on SATA adapter.
+2018-11-26T19:07:14.793+09:00| vmx| I125: AHCI:Successfully created device: sata0:1
+2018-11-26T19:07:14.793+09:00| vmx| I125: SOUNDLIB: Creating the Wave sound backend.
+2018-11-26T19:07:14.801+09:00| vmx| I125: WORKER: Creating new group with numThreads=1 (36)
+2018-11-26T19:07:14.801+09:00| vmx| I125: DISKUTIL: scsi0:0 : max toolsVersion = 10336, type = 4
+2018-11-26T19:07:14.801+09:00| vmx| I125: TOOLS setting legacy tools version to '10336' type 4, manifest status is 9
+2018-11-26T19:07:14.802+09:00| worker-16516| I125: ToolsVersionGetStatusWorkerThread: Tools status 8 derived from environment
+2018-11-26T19:07:14.802+09:00| vmx| I125: TOOLS INSTALL initializing state to IDLE on power on.
+2018-11-26T19:07:14.802+09:00| vmx| I125: HgfsServerManagerVigorInit: Initialize: dev api
+2018-11-26T19:07:14.802+09:00| vmx| I125: DEPLOYPKG: ToolsDeployPkgPublishState: state=0, code=0, message=(null)
+2018-11-26T19:07:14.836+09:00| vmx| I125: MonPmc: ctrBase 0x4c1 selBase 0x186/1 PGC 1/1 SMM 1 drain 0 AMD 0
+2018-11-26T19:07:14.836+09:00| vmx| I125+ MonPmc:   gen counters num: 4 width 48 write width 48
+2018-11-26T19:07:14.836+09:00| vmx| I125+ MonPmc:   fix counters num: 3 width 48
+2018-11-26T19:07:14.836+09:00| vmx| I125+ MonPmc:   unavailable counters: 0
+2018-11-26T19:07:14.922+09:00| vmx| I125: CPUID Maximum Physical Address Bits supported across all CPUs: 39
+2018-11-26T19:07:14.930+09:00| vmx| A100: ConfigDB: Setting monitor.phys_bits_used = "43"
+2018-11-26T19:07:14.930+09:00| vmx| I125: Full guest CPUID with differences from hostCPUID highlighted.
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest vendor: GenuineIntel
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest family: 0x6 model: 0x8e stepping: 0xa
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest codename: Coffeelake-U
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest name: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID       level eaxIn, ecxIn:        eax        ebx        ecx        edx
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000000,  0: 0x00000016 0x756e6547 0x6c65746e 0x49656e69
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000001,  0: 0x000806ea 0x00010800 0xf7fa3203 0x0f8bfbff
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 00000001,  0: 0x000806ea 0x00100800 0x7ffafbbf 0xbfebfbff
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000002,  0: 0x76036301 0x00f0b5ff 0x00000000 0x00c30000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000003,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000004,  0: 0x00000121 0x01c0003f 0x0000003f 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 00000004,  0: 0x1c004121 0x01c0003f 0x0000003f 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000004,  1: 0x00000122 0x01c0003f 0x0000003f 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 00000004,  1: 0x1c004122 0x01c0003f 0x0000003f 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000004,  2: 0x00000143 0x00c0003f 0x000003ff 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 00000004,  2: 0x1c004143 0x00c0003f 0x000003ff 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000004,  3: 0x00000163 0x03c0003f 0x00001fff 0x00000006
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 00000004,  3: 0x1c03c163 0x03c0003f 0x00001fff 0x00000006
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000004,  4: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000004,  5: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000004,  6: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000006,  0: 0x00000004 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 00000006,  0: 0x000027f7 0x00000002 0x00000009 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000007,  0: 0x00000000 0x009c67ab 0x00000000 0x2c000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 00000007,  0: 0x00000000 0x029c67af 0x00000000 0x0c000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000008,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000009,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000a,  0: 0x07300401 0x0000007f 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 0000000a,  0: 0x07300404 0x00000000 0x00000000 0x00000603
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000b,  0: 0x00000000 0x00000001 0x00000100 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 0000000b,  0: 0x00000001 0x00000002 0x00000100 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000b,  1: 0x00000000 0x00000001 0x00000201 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 0000000b,  1: 0x00000004 0x00000008 0x00000201 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000c,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  0: 0x0000001f 0x00000440 0x00000440 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  1: 0x0000000b 0x00000440 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 0000000d,  1: 0x0000000f 0x00000440 0x00000100 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  2: 0x00000100 0x00000240 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  3: 0x00000040 0x000003c0 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  4: 0x00000040 0x00000400 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  5: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  6: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  7: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  8: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 0000000d,  8: 0x00000080 0x00000000 0x00000001 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  9: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  a: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  b: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  c: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  d: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  e: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d,  f: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 10: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 11: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 12: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 13: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 14: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 15: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 16: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 17: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 18: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 19: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 1a: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 1b: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 1c: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 1d: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 1e: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 1f: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 20: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 21: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 22: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 23: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 24: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 25: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 26: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 27: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 28: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 29: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 2a: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 2b: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 2c: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 2d: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 2e: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 2f: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 30: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 31: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 32: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 33: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 34: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 35: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 36: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 37: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 38: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 39: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 3a: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 3b: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 3c: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 3d: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 3e: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000d, 3f: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000e,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000f,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 0000000f,  1: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000010,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000010,  1: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000011,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000013,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000015,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 00000015,  0: 0x00000002 0x000000a6 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000016,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID *host level 00000016,  0: 0x000007d0 0x00000fa0 0x00000064 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000017,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000017,  1: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000017,  2: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 00000017,  3: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 40000000,  0: 0x40000010 0x61774d56 0x4d566572 0x65726177
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 40000001,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 40000002,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 40000003,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 40000004,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 40000005,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 40000006,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 40000007,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 40000008,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 40000009,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 4000000a,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 4000000b,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 4000000c,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.930+09:00| vmx| I125: guest vs. host CPUID guest level 4000000d,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 4000000e,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 4000000f,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 40000010,  0: 0x001e6540 0x000101d0 0x00000000 0x00000000
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 80000000,  0: 0x80000008 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 80000001,  0: 0x00000000 0x00000000 0x00000121 0x2c100800
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 80000002,  0: 0x65746e49 0x2952286c 0x726f4320 0x4d542865
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 80000003,  0: 0x37692029 0x3535382d 0x43205530 0x40205550
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 80000004,  0: 0x382e3120 0x7a484730 0x00000000 0x00000000
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 80000005,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 80000006,  0: 0x00000000 0x00000000 0x01006040 0x00000000
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 80000007,  0: 0x00000000 0x00000000 0x00000000 0x00000100
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 80000008,  0: 0x0000302b 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID *host level 80000008,  0: 0x00003027 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 80000009,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 8000000b,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.939+09:00| vmx| I125: guest vs. host CPUID guest level 8000000c,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.940+09:00| vmx| I125: guest vs. host CPUID guest level 8000000d,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.940+09:00| vmx| I125: guest vs. host CPUID guest level 8000000e,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.940+09:00| vmx| I125: guest vs. host CPUID guest level 8000000f,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.940+09:00| vmx| I125: guest vs. host CPUID guest level 80000010,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.940+09:00| vmx| I125: guest vs. host CPUID guest level 80000011,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.940+09:00| vmx| I125: guest vs. host CPUID guest level 80000012,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.940+09:00| vmx| I125: guest vs. host CPUID guest level 80000013,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.940+09:00| vmx| I125: guest vs. host CPUID guest level 80000014,  0: 0x00000000 0x00000000 0x00000000 0x00000000
+2018-11-26T19:07:14.940+09:00| vmx| I125: guest vs. host CPUID guest level 80000015,  0:alSection _MINGW_INSTALL_DEBUG_MATHERR .refptr.__xi_a __image_base__ .refptr._CRT_MT RtlCaptureContext __section_alignment__ __native_dllmain_reason _tls_used UnhandledExceptionFilter mingw_initcharmax __IAT_end__ __imp_memcpy __RUNTIME_PSEUDO_RELOC_LIST__ __imp_RtlAddFunctionTable .refptr._newmode mingw_pcppinit __data_end__ __imp_fwrite __CTOR_LIST__ __imp___getmainargs _head_lib64_libkernel32_a __bss_end__ .refptr.mingw_initltsdrot_force GetTickCount _head_lib64_libmsvcrt_a __native_vcclrit_reason ___crt_xc_end__ RtlAddFunctionTable .refptr.__native_startup_lock __imp_EnterCriticalSection _tls_index __native_startup_state ___crt_xc_start__ __onexitbegin __imp_GetCurrentProcessId __imp___lconv_init __imp_TerminateProcess ___CTOR_LIST__ .refptr.__dyn_tls_init_callback __imp_signal __rt_psrelocs_size __imp_QueryPerformanceCounter __imp_strlen __imp_malloc __mingw_winmain_nShowCmd mingw_pcinit .refptr._gnu_exception_handler __file_alignment__ __imp_InitializeCriticalSection __lconv_init __getmainargs InitializeCriticalSection __imp_exit __major_os_version__ __imp_vfprintf __imp___initenv .refptr.__onexitbegin __IAT_start__ __imp__cexit __imp_UnhandledExceptionFilter __imp_SetUnhandledExceptionFilter .refptr.mingw_app_type __imp__onexit __DTOR_LIST__ RtlVirtualUnwind .refptr.__imp__acmdln __set_app_type __imp_Sleep LeaveCriticalSection __imp___setusermatherr __size_of_heap_reserve__ ___crt_xt_start__ __subsystem__ _amsg_exit __security_cookie_complement __imp_TlsGetValue GetCurrentProcess __setusermatherr __imp_fprintf __imp_VirtualProtect ___tls_end__ __onexitend QueryPerformanceCounter __imp_VirtualQuery __imp__initterm mingw_initltsdyn_force _dowildcard __imp___iob_func __dyn_tls_init_callback .refptr.__image_base__ _initterm __imp_strncmp .refptr._fmode __major_image_version__ __loader_flags__ ___chkstk_ms __native_startup_lock __mingw_winmain_hInstance GetStartupInfoA GetCurrentThreadId __rt_psrelocs_end __imp__get_invalid_parameter_handler __minor_subsystem_version__ __minor_image_version__ __imp__unlock __imp___set_app_type mingw_initltsdrot_force __imp_printf .refptr.__xc_a .refptr.__xi_z .refptr._MINGW_INSTALL_DEBUG_MATHERR DeleteCriticalSection __imp_RtlCaptureContext __RUNTIME_PSEUDO_RELOC_LIST_END__ __dllonexit __imp_GetCurrentProcess .refptr.__xc_z ___crt_xt_end__ __lib64_libmsvcrt_a_iname __security_cookie 
